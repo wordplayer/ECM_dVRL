@@ -10,3 +10,11 @@ OpenCV in Python: `pip install opencv-python` <br/>
 
 Please note that the code in this repository has been developed and runs on Python 3.7<br/>
 
+The source code for the da Vinci ECM - stationary PSM environment can be found in the `ECM_dVRL_v01` folder. <br/>
+
+The environment can be created for training by following the steps: <br/>
+`import gym` <br/>
+`import ECM_dVRL_v01` <br/>
+
+<br/>
+`env = gym.make('ECM-v0')` <br/>
