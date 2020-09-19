@@ -15,6 +15,4 @@ The source code for the da Vinci ECM - stationary PSM environment can be found i
 The environment can be created for training by following the steps: <br/>
 `import gym` <br/>
 `import ECM_dVRL_v01` <br/>
-
-<br/>
 `env = gym.make('ECM-v0')` <br/>
