@@ -9,6 +9,7 @@ PyRep: Clone the repository at `https://github.com/stepjam/PyRep.git` and follow
 OpenCV in Python: `pip install opencv-python` <br/>
 
 Please note that the code in this repository has been developed and runs on Python 3.7<br/>
+Before running the environment, please make sure to copy the `.ttt` scene file to the `Scenes` folder in CoppeliaSim.
 
 The source code for the da Vinci ECM - stationary PSM environment can be found in the `ECM_dVRL_v01` folder. <br/>
 
