@@ -1,5 +1,7 @@
 import gym
 import cv2
+import time
+import logging
 from gym import error, spaces
 from gym.utils import seeding
 
@@ -17,13 +19,14 @@ class ECMEnv(gym.GoalEnv):
         self.viewer = None
         
         self.pr = PyRep()
-        self.pr.launch(scene_path)
+        self.pr.launch(scene_path, headless = True)
         
         self.psm_num = psm_num
         self.psm = ArmPSM(self.pr, self.psm_num)
         self.ecm = ArmECM(self.pr)
         
         self.n_substeps = n_substeps
+        self.pr.set_simulation_timestep(1./self.n_substeps)
         
         self.sim_timestep = 0.1
         self.success_radius = 1.0
@@ -40,7 +43,7 @@ class ECMEnv(gym.GoalEnv):
         self.desired_goal = np.array([270., 216.])
         #self.bounds = [[-1.000, 0.], [-0.030, 0.045], [0, 0.075], [-0.030, 0.045]]
         self.bounds = np.array([np.radians([-75, 45]), np.radians([-45, 65]), np.array([0, 0.235]), np.radians([-90, 90])])
-        self.init_angles = np.array([-0.95, 0.05, 0., 0.])
+        self.init_angles = np.array([-0.92, 0.05, 0., 0.])
                         
         self.action_space = spaces.Box(0., 0.02, shape=(n_actions,), dtype='float32')
         self.observation_space = spaces.Dict(dict(
@@ -62,21 +65,31 @@ class ECMEnv(gym.GoalEnv):
     
     def step(self, action):
         valid = True
+        logging.info('Logging action update in env.step')
         if not self.done:
             action = np.clip(action, self.action_space.low, self.action_space.high)
             valid = self._set_action(action)
+
+            logging.info('Logging runtime for _simulator_step()')
+            start = time.time()
             if valid:
                 self._simulator_step()
                 #self._step_callback()
-        
+            logging.info(str(time.time() - start))
         obs = self._get_obs() 
         done = False
+        #logging.info('Logging success check in env.step')
+        start = time.time()
         success = self._is_success()
+        #logging.info(str(time.time() - start))
         if success or not valid:
             done = True
         self.done = done
         
+        #logging.info('Logging reward acquisition in env.step')
+        start = time.time()
         reward = self._interaction_reward(obs['achieved_goal'], obs['desired_goal'])
+        #logging.info(str(time.time() - start))
         info = {'success' : success,
                 'reward': reward}
         
@@ -111,8 +124,10 @@ class ECMEnv(gym.GoalEnv):
         self.pr.shutdown()
     
     def _simulator_step(self):
-        for i in range(0, self.n_substeps):
+        """for i in range(0, self.n_substeps):
             self.pr.step()
+        """
+        self.pr.step()
 
     def _reset_sim(self):
         """Resets the simulation and random initialization
@@ -175,9 +190,16 @@ class ECMEnv(gym.GoalEnv):
         """
         new_pos = obs + action
         valid = True
+        logging.info('Logging runtime for bound check in _step_callback()')
+        start = time.time()
         if (not ((new_pos[0] >= self.bounds[0][0]) and (new_pos[0] <= self.bounds[0][1]))) or (not ((new_pos[1] >= self.bounds[1][0]) and (new_pos[1] <= self.bounds[1][1]))) or (not ((new_pos[2] >= self.bounds[2][0]) and (new_pos[2] <= self.bounds[2][1]))) or (not ((new_pos[3] >= self.bounds[3][0]) and (new_pos[3] <= self.bounds[3][1]))):
             valid = False
+        logging.info(str(time.time() - start))
+
+        logging.info('Logging runtime for joint angle update in _step_callback()')
+        start = time.time()
         if valid:
             self.ecm.setJointAngles(new_pos)
+        logging.info(str(time.time() - start))
         return valid
        

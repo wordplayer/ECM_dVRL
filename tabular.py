@@ -1,5 +1,6 @@
 import time
 import random
+import logging
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -35,13 +36,12 @@ class Tabular:
             access_key = None, data_needs_rounding_off = False, round_to_digits = 3,
             alpha = 0.7, discount_factor = 0.618, epsilon = 1, max_epsilon = 1, min_epsilon = 0.01,
             decay = 0.01):
-        
+        logging.basicConfig(format = '%(message)s', level = logging.CRITICAL)
         Q = np.zeros((self.n_states, self.n_actions))
         #print (Q.shape)
         step_rewards = []
         for episode in range(episodes):
             print (f'Starting Episode {episode + 1} ', end = '\r')
-            state = None
             if state_is_numerical_value:
                 state = self.env.reset()
             else:
@@ -51,22 +51,26 @@ class Tabular:
             total_training_rewards = 0
             policy = []
             last_achieved_goal = None
+            s = (self.state_space == state).all(axis = 1)
             
-            s = np.where((self.state_space == state).all(axis = 1))
-            a = None
-            s_new = None
-            
-            start = time.time()
+            #start = time.time()
             for step in range(max_steps):
                 exp_exp_tradeoff = random.uniform(0,1)
-                action = None
+                a = None
+                start = time.time()
+                #logging.info('Logging action retrieval time')
                 if exp_exp_tradeoff < epsilon:
                     a = random.randrange(self.n_actions)
                 else:
                     a = np.argmax(Q[s, :])
-                action = self.action_space[a]
-                policy.append(action)
-                new_state, reward, done, info = self.env.step(action)
+                policy.append(self.action_space[a])
+                #logging.info(str(time.time() -  start))
+
+                logging.info('Logging Simulator update time')
+                start = time.time()
+                new_state, reward, done, info = self.env.step(self.action_space[a])
+                logging.info(str(time.time() - start))
+
                 #step_rewards.append(reward)
                 if not state_is_numerical_value:
                     # Modification for dVRL alone
@@ -74,15 +78,12 @@ class Tabular:
                     new_state = new_state[access_key]
                 if data_needs_rounding_off:
                     new_state = np.round(new_state, round_to_digits)
-                
                 try:
-                    if not state_is_numerical_value:
-                        s_new = np.where((self.state_space == new_state).all(axis = 1))
-                    else:
-                        s = state
-                        a = action
-                        s_new = new_state    
+                    #logging.info('Logging Q-update time') 
+                    start = time.time()
+                    s_new = np.where((self.state_space == new_state).all(axis = 1))
                     Q[s, a] = Q[s, a] + alpha * (reward + discount_factor * np.max(Q[s_new, :]) - Q[s, a])
+                    #logging.info(str(time.time() - start))
                     state = new_state
                     s = s_new
                     total_training_rewards += reward
@@ -93,7 +94,7 @@ class Tabular:
                 if done:
                     #print (total_training_rewards, end = '\r')
                     break
-            #print (f'Previous Episode completed in {time.time() - start} seconds', end = '\r')
+            print (f'Previous Episode completed in {time.time() - start} seconds', end = '\r')
             epsilon = min_epsilon + (max_epsilon - min_epsilon) * np.exp(-decay * episode)
             self.training_rewards.append(total_training_rewards)
             self.achieved_final_goals.append(last_achieved_goal)
