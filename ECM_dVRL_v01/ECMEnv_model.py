@@ -10,8 +10,8 @@ import matplotlib.pyplot as plt
 import matplotlib.animation as animation
  
 from pyrep.pyrep import PyRep
-from ArmPSM_model import ArmPSM
-from ArmECM_model import ArmECM
+from ECM_dVRL_v01.ArmPSM_model import ArmPSM
+from ECM_dVRL_v01.ArmECM_model import ArmECM
 
 class ECMEnv(gym.GoalEnv):
     def __init__(self, psm_num, n_actions, n_states, n_goals, n_substeps, camera_enabled, scene_path):
