@@ -52,8 +52,10 @@ class ArmECM(PyRep):
         return self.left_cam.get_pose(relative_to = self.base_handle)
     
     def getStereoImagePairs(self):
-        return np.fliplr(self.left_cam.capture_rgb()), np.fliplr(self.right_cam.capture_rgb())
+        return self.left_cam.capture_rgb(), self.right_cam.capture_rgb()
     
+    def getDepthImagePairs(self):
+        return self.left_cam.capture_depth(True), self.right_cam.capture_depth(True)
     """def stopSim(self):
         self.pr.stop()
         self.pr.shutdown()"""

@@ -1,5 +1,7 @@
 import gym
 import cv2
+import time
+import logging
 from gym import error, spaces
 from gym.utils import seeding
 
@@ -8,8 +10,8 @@ import matplotlib.pyplot as plt
 import matplotlib.animation as animation
  
 from pyrep.pyrep import PyRep
-from ArmPSM_model import ArmPSM
-from ArmECM_model import ArmECM
+from ECM_dVRL_v01.ArmPSM_model import ArmPSM
+from ECM_dVRL_v01.ArmECM_model import ArmECM
 
 class ECMEnv(gym.GoalEnv):
     def __init__(self, psm_num, n_actions, n_states, n_goals, n_substeps, camera_enabled, scene_path):
@@ -17,30 +19,35 @@ class ECMEnv(gym.GoalEnv):
         self.viewer = None
         
         self.pr = PyRep()
-        self.pr.launch(scene_path)
+        self.pr.launch(scene_path, headless = True)
         
         self.psm_num = psm_num
         self.psm = ArmPSM(self.pr, self.psm_num)
         self.ecm = ArmECM(self.pr)
         
         self.n_substeps = n_substeps
+        self.pr.set_simulation_timestep(1./self.n_substeps)
         
         self.sim_timestep = 0.1
-        self.success_radius = 1.0
+        self.success_radius = 1e-1
         self.camera_enabled = camera_enabled
         if self.camera_enabled:
             self.metadata = {'render.modes': ['matplotlib', 'rgb', 'human']}
             self.camera = camera(self.pr, rgb = True)
         else:
             self.metadata = {'render.modes': ['human']}
-            
+
+        self.FOV = np.radians(self.ecm.left_cam.get_perspective_angle())
+        base_img = self.ecm.getStereoImagePairs()[0]
+        self.w, self.h = base_img.shape[0], base_img.shape[1]
+
         self.seed()
         self._env_setup()
         self.done = False
-        self.desired_goal = np.array([270., 216.])
+        self.desired_goal = self.psm.get_marker_position(self.ecm.left_cam)
         #self.bounds = [[-1.000, 0.], [-0.030, 0.045], [0, 0.075], [-0.030, 0.045]]
         self.bounds = np.array([np.radians([-75, 45]), np.radians([-45, 65]), np.array([0, 0.235]), np.radians([-90, 90])])
-        self.init_angles = np.array([-0.95, 0.05, 0., 0.])
+        self.init_angles = np.array([-0.92, 0.05, 0., 0.])
                         
         self.action_space = spaces.Box(0., 0.02, shape=(n_actions,), dtype='float32')
         self.observation_space = spaces.Dict(dict(
@@ -62,21 +69,31 @@ class ECMEnv(gym.GoalEnv):
     
     def step(self, action):
         valid = True
+        logging.info('Logging action update in env.step')
         if not self.done:
             action = np.clip(action, self.action_space.low, self.action_space.high)
             valid = self._set_action(action)
+
+            logging.info('Logging runtime for _simulator_step()')
+            start = time.time()
             if valid:
                 self._simulator_step()
                 #self._step_callback()
-        
+            logging.info(str(time.time() - start))
         obs = self._get_obs() 
         done = False
+        #logging.info('Logging success check in env.step')
+        start = time.time()
         success = self._is_success()
+        #logging.info(str(time.time() - start))
         if success or not valid:
             done = True
         self.done = done
         
+        #logging.info('Logging reward acquisition in env.step')
+        start = time.time()
         reward = self._interaction_reward(obs['achieved_goal'], obs['desired_goal'])
+        #logging.info(str(time.time() - start))
         info = {'success' : success,
                 'reward': reward}
         
@@ -102,7 +119,15 @@ class ECMEnv(gym.GoalEnv):
             c_x = int(M["m10"]/M["m00"])
             c_y = int(M["m01"]/M["m00"])
         return np.array([c_x, c_y])
-        
+
+    def get_achieved_goal(self):
+        u, v = self.get_centroid()
+        z = self.ecm.getDepthImagePairs()[0][u, v]
+        f = self.h/(2.0 * np.tan(self.FOV/2.0))
+        x = (z/f) * (u - (self.w/2.0))
+        y = (z/f) * (v - (self.h/2.0))
+        return np.array([x, y, z])
+
     def close(self):
         if self.viewer is not None:
             plt.close(self.viewer.number)
@@ -111,8 +136,10 @@ class ECMEnv(gym.GoalEnv):
         self.pr.shutdown()
     
     def _simulator_step(self):
-        for i in range(0, self.n_substeps):
+        """for i in range(0, self.n_substeps):
             self.pr.step()
+        """
+        self.pr.step()
 
     def _reset_sim(self):
         """Resets the simulation and random initialization
@@ -126,8 +153,8 @@ class ECMEnv(gym.GoalEnv):
         """Returns the observation.
         """
         obs = {'observation' : self.ecm.getJointAngles(),
-              'achieved_goal': self.get_centroid(),
-              'desired_goal' : self.desired_goal}
+              'achieved_goal': self.get_achieved_goal(),
+              'desired_goal' : self.psm.get_marker_position(self.ecm.left_cam)}
         return obs
 
     def _set_action(self, action):
@@ -143,7 +170,9 @@ class ECMEnv(gym.GoalEnv):
         obs = self._get_obs()
         achieved = obs['achieved_goal']
         goal = obs['desired_goal']
-        return (np.linalg.norm(achieved - goal) < self.success_radius)
+        """logging.critical(str(achieved))
+        return (achieved == goal).all()"""
+        return np.linalg.norm(achieved - goal) < self.success_radius
 
     def _interaction_reward(self, achieved_goal, goal): 
         """Returns the reward based on the interaction result in the simulator
@@ -175,9 +204,16 @@ class ECMEnv(gym.GoalEnv):
         """
         new_pos = obs + action
         valid = True
+        logging.info('Logging runtime for bound check in _step_callback()')
+        start = time.time()
         if (not ((new_pos[0] >= self.bounds[0][0]) and (new_pos[0] <= self.bounds[0][1]))) or (not ((new_pos[1] >= self.bounds[1][0]) and (new_pos[1] <= self.bounds[1][1]))) or (not ((new_pos[2] >= self.bounds[2][0]) and (new_pos[2] <= self.bounds[2][1]))) or (not ((new_pos[3] >= self.bounds[3][0]) and (new_pos[3] <= self.bounds[3][1]))):
             valid = False
+        logging.info(str(time.time() - start))
+
+        logging.info('Logging runtime for joint angle update in _step_callback()')
+        start = time.time()
         if valid:
             self.ecm.setJointAngles(new_pos)
+        logging.info(str(time.time() - start))
         return valid
        

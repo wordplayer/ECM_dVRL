@@ -43,7 +43,7 @@ class ArmPSM(PyRep):
 
         self.ik_target_dx_dummy_handle = Dummy('IK_target_dx_PSM{}'.format(self.psm))
         self.ik_target_sx_dummy_handle = Dummy('IK_target_sx_PSM{}'.format(self.psm))
-        
+        self.marker = Shape('yaw_{}'.format(self.psm))
         self.EE_virtual_handle = Dummy('EE_virtual_TOOL{}'.format(self.psm))
         
         self.ik_signal = IntegerSignal("run_IK_PSM{}".format(self.psm))
@@ -239,10 +239,12 @@ class ArmPSM(PyRep):
         self.ik_target_dx_dummy_handle.set_pose(np.r_[pos_dx, quat_dx], relative_to = self.base_handle)
         self.ik_target_sx_dummy_handle.set_pose(np.r_[pos_sx, quat_sx], relative_to = self.base_handle)
 
-    
+    def get_marker_position(self, relative_to = None):
+        return self.marker.get_position(relative_to)
+        
     """def stopSim(self):
         self.pr.stop()
-        self.pr.shutdown()"""    
+        self.pr.shutdown()"""
 
 
 
