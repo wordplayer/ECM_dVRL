@@ -19,7 +19,7 @@ class ECMEnv(gym.GoalEnv):
         self.viewer = None
         
         self.pr = PyRep()
-        self.pr.launch(scene_path)
+        self.pr.launch(scene_path, headless = True)
         
         self.psm_num = psm_num
         self.psm = ArmPSM(self.pr, self.psm_num)
@@ -29,7 +29,7 @@ class ECMEnv(gym.GoalEnv):
         self.pr.set_simulation_timestep(1./self.n_substeps)
         
         self.sim_timestep = 0.1
-        self.success_radius = 1e-3
+        self.success_radius = 1e-1
         self.camera_enabled = camera_enabled
         if self.camera_enabled:
             self.metadata = {'render.modes': ['matplotlib', 'rgb', 'human']}
@@ -40,18 +40,14 @@ class ECMEnv(gym.GoalEnv):
         self.FOV = np.radians(self.ecm.left_cam.get_perspective_angle())
         base_img = self.ecm.getStereoImagePairs()[0]
         self.w, self.h = base_img.shape[0], base_img.shape[1]
-        self.f = self.h/(2.0 * np.tan(self.FOV/2.0))
 
         self.seed()
         self._env_setup()
         self.done = False
-        self.marker_pos = self.psm.get_marker_position(self.ecm.left_cam)
-        #self.desired_goal = np.array([self.marker_pos[0], self.marker_pos[1], 1.0000 + self.marker_pos[2]])
-        self.desired_goal = np.array([0., 0., 0.])
-
+        self.desired_goal = self.psm.get_marker_position(self.ecm.left_cam)
         #self.bounds = [[-1.000, 0.], [-0.030, 0.045], [0, 0.075], [-0.030, 0.045]]
         self.bounds = np.array([np.radians([-75, 45]), np.radians([-45, 65]), np.array([0, 0.235]), np.radians([-90, 90])])
-        self.init_angles = np.array([-0.8775, 0.0025, 0., 0.])
+        self.init_angles = np.array([-0.92, 0.05, 0., 0.])
                         
         self.action_space = spaces.Box(0., 0.02, shape=(n_actions,), dtype='float32')
         self.observation_space = spaces.Dict(dict(
@@ -125,21 +121,12 @@ class ECMEnv(gym.GoalEnv):
         return np.array([c_x, c_y])
 
     def get_achieved_goal(self):
-        """logging.info('Logging runtime for get_centroid')
-        start = time.time()
         u, v = self.get_centroid()
-        logging.info(time.time() - start)
-        logging.info('Logging runtime for rest of get_achieved_goal')
-        start = time.time()
-        z = self.ecm.getDepthImagePairs()[0][int(u), int(v)]
-        
-        x = (z/self.f) * (u - (self.w/2.0))
-        y = (z/self.f) * (v - (self.h/2.0))
-        logging.info(time.time() - start)
-        #x = (z/f) * u
-        #y = (z/f) * v
-        return np.array([x, y, z])"""
-        return self.psm.get_marker_position(self.ecm.left_cam)
+        z = self.ecm.getDepthImagePairs()[0][u, v]
+        f = self.h/(2.0 * np.tan(self.FOV/2.0))
+        x = (z/f) * (u - (self.w/2.0))
+        y = (z/f) * (v - (self.h/2.0))
+        return np.array([x, y, z])
 
     def close(self):
         if self.viewer is not None:
@@ -167,7 +154,7 @@ class ECMEnv(gym.GoalEnv):
         """
         obs = {'observation' : self.ecm.getJointAngles(),
               'achieved_goal': self.get_achieved_goal(),
-              'desired_goal' : self.desired_goal}
+              'desired_goal' : self.psm.get_marker_position(self.ecm.left_cam)}
         return obs
 
     def _set_action(self, action):
@@ -190,7 +177,7 @@ class ECMEnv(gym.GoalEnv):
     def _interaction_reward(self, achieved_goal, goal): 
         """Returns the reward based on the interaction result in the simulator
         """
-        return -np.linalg.norm(achieved_goal - goal)**2.0
+        return -((achieved_goal[0] - goal[0])**2.0 + (achieved_goal[0] - goal[0])**2.0)
     
     def _env_setup(self):
         

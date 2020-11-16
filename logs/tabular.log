@@ -1,0 +1,5834 @@
+This works!
+Logging reset time
+7.279606819152832
+Logging episode time
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.0251998901367188e-05
+Logging runtime for joint angle update in _step_callback()
+0.7680356502532959
+Logging runtime for _simulator_step()
+0.029827117919921875
+0.7990899085998535
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+8.58306884765625e-06
+Logging runtime for joint angle update in _step_callback()
+0.08926248550415039
+Logging runtime for _simulator_step()
+0.020867586135864258
+1.1721091270446777
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.3909759521484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.07800507545471191
+Logging runtime for _simulator_step()
+0.024985551834106445
+1.496741533279419
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.62939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08369588851928711
+Logging runtime for _simulator_step()
+0.019761323928833008
+1.8098030090332031
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.62939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08025956153869629
+Logging runtime for _simulator_step()
+0.0253756046295166
+2.123936653137207
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.2636184692382812e-05
+Logging runtime for joint angle update in _step_callback()
+0.07944393157958984
+Logging runtime for _simulator_step()
+0.021407365798950195
+2.434622287750244
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.3909759521484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.08347058296203613
+Logging runtime for _simulator_step()
+0.023145437240600586
+2.752890110015869
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.1444091796875e-05
+Logging runtime for joint angle update in _step_callback()
+0.0837855339050293
+Logging runtime for _simulator_step()
+0.020302534103393555
+3.069470167160034
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.62939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.07744956016540527
+Logging runtime for _simulator_step()
+0.019648075103759766
+3.3810300827026367
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.9073486328125e-05
+Logging runtime for joint angle update in _step_callback()
+0.08183860778808594
+Logging runtime for _simulator_step()
+0.020238161087036133
+3.698692560195923
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.1444091796875e-05
+Logging runtime for joint angle update in _step_callback()
+0.08041691780090332
+Logging runtime for _simulator_step()
+0.020168781280517578
+4.010360956192017
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.867813110351562e-06
+Logging runtime for joint angle update in _step_callback()
+0.08297848701477051
+Logging runtime for _simulator_step()
+0.02110886573791504
+4.322154998779297
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.62939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.07752037048339844
+Logging runtime for _simulator_step()
+0.02059340476989746
+4.632352113723755
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.0728836059570312e-05
+Logging runtime for joint angle update in _step_callback()
+0.08418989181518555
+Logging runtime for _simulator_step()
+0.01880025863647461
+4.944325685501099
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+8.106231689453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.09116768836975098
+Logging runtime for _simulator_step()
+0.019813060760498047
+5.265483140945435
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.867813110351562e-06
+Logging runtime for joint angle update in _step_callback()
+0.0881645679473877
+Logging runtime for _simulator_step()
+0.022491931915283203
+5.583081960678101
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.62939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08273482322692871
+Logging runtime for _simulator_step()
+0.020947933197021484
+5.897064924240112
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.3909759521484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.08579301834106445
+Logging runtime for _simulator_step()
+0.019051551818847656
+6.212329864501953
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.3909759521484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.08458304405212402
+Logging runtime for _simulator_step()
+0.01963210105895996
+6.527630090713501
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+2.0503997802734375e-05
+Logging runtime for joint angle update in _step_callback()
+0.09082221984863281
+Logging runtime for _simulator_step()
+0.020705461502075195
+6.8482115268707275
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.0967254638671875e-05
+Logging runtime for joint angle update in _step_callback()
+0.08705854415893555
+Logging runtime for _simulator_step()
+0.019533157348632812
+7.163049221038818
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.867813110351562e-06
+Logging runtime for joint angle update in _step_callback()
+0.09227108955383301
+Logging runtime for _simulator_step()
+0.020394325256347656
+7.483111143112183
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.08522272109985352
+Logging runtime for _simulator_step()
+0.0209200382232666
+7.7984778881073
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.08278465270996094
+Logging runtime for _simulator_step()
+0.02220892906188965
+8.112227201461792
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.1920928955078125e-05
+Logging runtime for joint angle update in _step_callback()
+0.08466291427612305
+Logging runtime for _simulator_step()
+0.022617578506469727
+8.428185939788818
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.6927719116210938e-05
+Logging runtime for joint angle update in _step_callback()
+0.08193349838256836
+Logging runtime for _simulator_step()
+0.02249622344970703
+8.742149829864502
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.62939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.07747364044189453
+Logging runtime for _simulator_step()
+0.02016162872314453
+9.049558162689209
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.867813110351562e-06
+Logging runtime for joint angle update in _step_callback()
+0.08115959167480469
+Logging runtime for _simulator_step()
+0.018564224243164062
+9.363367557525635
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.3909759521484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.0857231616973877
+Logging runtime for _simulator_step()
+0.022614002227783203
+9.686494588851929
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.3909759521484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.08350396156311035
+Logging runtime for _simulator_step()
+0.025435686111450195
+10.006270170211792
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.3909759521484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.08544254302978516
+Logging runtime for _simulator_step()
+0.022513628005981445
+10.320453882217407
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.5020370483398438e-05
+Logging runtime for joint angle update in _step_callback()
+0.08330559730529785
+Logging runtime for _simulator_step()
+0.022739410400390625
+10.638559103012085
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.811981201171875e-05
+Logging runtime for joint angle update in _step_callback()
+0.08954453468322754
+Logging runtime for _simulator_step()
+0.019536256790161133
+10.956372737884521
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.62939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08437561988830566
+Logging runtime for _simulator_step()
+0.023829221725463867
+11.272934436798096
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.867813110351562e-06
+Logging runtime for joint angle update in _step_callback()
+0.08533239364624023
+Logging runtime for _simulator_step()
+0.020292043685913086
+11.588971376419067
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+8.106231689453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08037734031677246
+Logging runtime for _simulator_step()
+0.020285367965698242
+11.89886212348938
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.8358230590820312e-05
+Logging runtime for joint angle update in _step_callback()
+0.08465290069580078
+Logging runtime for _simulator_step()
+0.021420001983642578
+12.216120481491089
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.62939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08539724349975586
+Logging runtime for _simulator_step()
+0.0191195011138916
+12.529313325881958
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.3909759521484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.09657645225524902
+Logging runtime for _simulator_step()
+0.02068948745727539
+12.856097936630249
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.62939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08135867118835449
+Logging runtime for _simulator_step()
+0.021752119064331055
+13.170175313949585
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.9788742065429688e-05
+Logging runtime for joint angle update in _step_callback()
+0.08185887336730957
+Logging runtime for _simulator_step()
+0.019034624099731445
+13.4790678024292
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.867813110351562e-06
+Logging runtime for joint angle update in _step_callback()
+0.07831048965454102
+Logging runtime for _simulator_step()
+0.01937580108642578
+13.790520429611206
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.867813110351562e-06
+Logging runtime for joint angle update in _step_callback()
+0.08493590354919434
+Logging runtime for _simulator_step()
+0.02004528045654297
+14.103974103927612
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.62939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08239579200744629
+Logging runtime for _simulator_step()
+0.01897740364074707
+14.41521430015564
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.3909759521484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.08320951461791992
+Logging runtime for _simulator_step()
+0.0198514461517334
+14.7283353805542
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.62939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.0814366340637207
+Logging runtime for _simulator_step()
+0.021852970123291016
+15.048858165740967
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.3909759521484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.08604097366333008
+Logging runtime for _simulator_step()
+0.02287769317626953
+15.367387294769287
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.3909759521484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.09853839874267578
+Logging runtime for _simulator_step()
+0.01886773109436035
+15.695341348648071
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.867813110351562e-06
+Logging runtime for joint angle update in _step_callback()
+0.08112668991088867
+Logging runtime for _simulator_step()
+0.019495010375976562
+16.00578784942627
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+8.106231689453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08216619491577148
+Logging runtime for _simulator_step()
+0.022902488708496094
+16.320839881896973
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.62939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08098316192626953
+Logging runtime for _simulator_step()
+0.020725727081298828
+16.63117241859436
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.0251998901367188e-05
+Logging runtime for joint angle update in _step_callback()
+0.08202958106994629
+Logging runtime for _simulator_step()
+0.02535080909729004
+16.955591440200806
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.08330202102661133
+Logging runtime for _simulator_step()
+0.023951292037963867
+17.27091336250305
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.1682510375976562e-05
+Logging runtime for joint angle update in _step_callback()
+0.09073853492736816
+Logging runtime for _simulator_step()
+0.020671844482421875
+17.59050178527832
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.3909759521484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.08277535438537598
+Logging runtime for _simulator_step()
+0.025989055633544922
+17.907503128051758
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.3909759521484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.08990097045898438
+Logging runtime for _simulator_step()
+0.020172834396362305
+18.22481417655945
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.239776611328125e-05
+Logging runtime for joint angle update in _step_callback()
+0.08815360069274902
+Logging runtime for _simulator_step()
+0.022779226303100586
+18.547146320343018
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.62939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08265066146850586
+Logging runtime for _simulator_step()
+0.020190954208374023
+18.860997676849365
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.1920928955078125e-05
+Logging runtime for joint angle update in _step_callback()
+0.08423447608947754
+Logging runtime for _simulator_step()
+0.021279335021972656
+19.17635750770569
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.867813110351562e-06
+Logging runtime for joint angle update in _step_callback()
+0.08221793174743652
+Logging runtime for _simulator_step()
+0.02309870719909668
+19.491188287734985
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.049041748046875e-05
+Logging runtime for joint angle update in _step_callback()
+0.08768963813781738
+Logging runtime for _simulator_step()
+0.022043943405151367
+19.8184871673584
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.3909759521484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.08625364303588867
+Logging runtime for _simulator_step()
+0.020554780960083008
+20.133614540100098
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.3909759521484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.08332490921020508
+Logging runtime for _simulator_step()
+0.02448272705078125
+20.45144486427307
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.867813110351562e-06
+Logging runtime for joint angle update in _step_callback()
+0.0838003158569336
+Logging runtime for _simulator_step()
+0.022985458374023438
+20.765762329101562
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08313465118408203
+Logging runtime for _simulator_step()
+0.019471406936645508
+21.07899808883667
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.867813110351562e-06
+Logging runtime for joint angle update in _step_callback()
+0.08598995208740234
+Logging runtime for _simulator_step()
+0.019598960876464844
+21.392322063446045
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.867813110351562e-06
+Logging runtime for joint angle update in _step_callback()
+0.07710647583007812
+Logging runtime for _simulator_step()
+0.02061176300048828
+21.699660301208496
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.3909759521484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.08594894409179688
+Logging runtime for _simulator_step()
+0.022579193115234375
+22.016570568084717
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.8596649169921875e-05
+Logging runtime for joint angle update in _step_callback()
+0.08562994003295898
+Logging runtime for _simulator_step()
+0.021574020385742188
+22.333773612976074
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.239776611328125e-05
+Logging runtime for joint angle update in _step_callback()
+0.08571958541870117
+Logging runtime for _simulator_step()
+0.020214319229125977
+22.650926113128662
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.3909759521484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.08332943916320801
+Logging runtime for _simulator_step()
+0.02048039436340332
+22.96314024925232
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+8.344650268554688e-06
+Logging runtime for joint angle update in _step_callback()
+0.08107542991638184
+Logging runtime for _simulator_step()
+0.025246858596801758
+23.27968430519104
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.1444091796875e-05
+Logging runtime for joint angle update in _step_callback()
+0.08534789085388184
+Logging runtime for _simulator_step()
+0.020152568817138672
+23.59465265274048
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.867813110351562e-06
+Logging runtime for joint angle update in _step_callback()
+0.0834963321685791
+Logging runtime for _simulator_step()
+0.021449565887451172
+23.91077184677124
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.2159347534179688e-05
+Logging runtime for joint angle update in _step_callback()
+0.08907842636108398
+Logging runtime for _simulator_step()
+0.019536495208740234
+24.230507612228394
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.239776611328125e-05
+Logging runtime for joint angle update in _step_callback()
+0.09097790718078613
+Logging runtime for _simulator_step()
+0.02213287353515625
+24.554730892181396
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.3113021850585938e-05
+Logging runtime for joint angle update in _step_callback()
+0.08680224418640137
+Logging runtime for _simulator_step()
+0.021863460540771484
+24.872304439544678
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+2.1457672119140625e-05
+Logging runtime for joint angle update in _step_callback()
+0.0821387767791748
+Logging runtime for _simulator_step()
+0.020971059799194336
+25.185893058776855
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.3909759521484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.08352231979370117
+Logging runtime for _simulator_step()
+0.019609928131103516
+25.498629570007324
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.2159347534179688e-05
+Logging runtime for joint angle update in _step_callback()
+0.08601808547973633
+Logging runtime for _simulator_step()
+0.020095348358154297
+25.813682317733765
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.3909759521484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.08545613288879395
+Logging runtime for _simulator_step()
+0.0191042423248291
+26.126867294311523
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.867813110351562e-06
+Logging runtime for joint angle update in _step_callback()
+0.08035659790039062
+Logging runtime for _simulator_step()
+0.023084640502929688
+26.437713384628296
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.3909759521484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.0811765193939209
+Logging runtime for _simulator_step()
+0.025981664657592773
+26.75773811340332
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.62939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08354449272155762
+Logging runtime for _simulator_step()
+0.023658275604248047
+27.072542190551758
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.1682510375976562e-05
+Logging runtime for joint angle update in _step_callback()
+0.08312439918518066
+Logging runtime for _simulator_step()
+0.021757125854492188
+27.386553287506104
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+8.106231689453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08544015884399414
+Logging runtime for _simulator_step()
+0.02350330352783203
+27.71025538444519
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.049041748046875e-05
+Logging runtime for joint angle update in _step_callback()
+0.08426189422607422
+Logging runtime for _simulator_step()
+0.02327585220336914
+28.03084897994995
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.867813110351562e-06
+Logging runtime for joint angle update in _step_callback()
+0.08660364151000977
+Logging runtime for _simulator_step()
+0.0232393741607666
+28.35033893585205
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.3909759521484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.08231902122497559
+Logging runtime for _simulator_step()
+0.019748210906982422
+28.664405584335327
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.3909759521484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.08330869674682617
+Logging runtime for _simulator_step()
+0.019107818603515625
+28.976211547851562
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+8.344650268554688e-06
+Logging runtime for joint angle update in _step_callback()
+0.09383392333984375
+Logging runtime for _simulator_step()
+0.024965524673461914
+29.305771827697754
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.62939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08380818367004395
+Logging runtime for _simulator_step()
+0.02106475830078125
+29.620490312576294
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.08135461807250977
+Logging runtime for _simulator_step()
+0.019827842712402344
+29.929821491241455
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.62939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08426213264465332
+Logging runtime for _simulator_step()
+0.020468950271606445
+30.243380069732666
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+8.106231689453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08645391464233398
+Logging runtime for _simulator_step()
+0.022211313247680664
+30.562560558319092
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.1920928955078125e-05
+Logging runtime for joint angle update in _step_callback()
+0.08759856224060059
+Logging runtime for _simulator_step()
+0.021874427795410156
+30.88997769355774
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.62939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08581042289733887
+Logging runtime for _simulator_step()
+0.025298595428466797
+31.208630800247192
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+8.106231689453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08058357238769531
+Logging runtime for _simulator_step()
+0.022522449493408203
+31.521533727645874
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.0967254638671875e-05
+Logging runtime for joint angle update in _step_callback()
+0.09059023857116699
+Logging runtime for _simulator_step()
+0.021645545959472656
+31.84549641609192
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+2.3126602172851562e-05
+Logging runtime for joint angle update in _step_callback()
+0.08943557739257812
+Logging runtime for _simulator_step()
+0.022371530532836914
+32.16875505447388
+32.37577414512634
+Logging reset time
+5.427349090576172
+Logging episode time
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.62939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.6995718479156494
+Logging runtime for _simulator_step()
+0.019681215286254883
+0.7203431129455566
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.0013580322265625e-05
+Logging runtime for joint angle update in _step_callback()
+0.07978653907775879
+Logging runtime for _simulator_step()
+0.023212671279907227
+1.0837106704711914
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.62939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.07797384262084961
+Logging runtime for _simulator_step()
+0.019326448440551758
+1.3891396522521973
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08414363861083984
+Logging runtime for _simulator_step()
+0.022370338439941406
+1.714451789855957
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.09602880477905273
+Logging runtime for _simulator_step()
+0.019008398056030273
+2.0390751361846924
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.3909759521484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.0846548080444336
+Logging runtime for _simulator_step()
+0.018211841583251953
+2.3513031005859375
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.0794839859008789
+Logging runtime for _simulator_step()
+0.019130229949951172
+2.6595869064331055
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.08662271499633789
+Logging runtime for _simulator_step()
+0.02330327033996582
+2.9782519340515137
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08380413055419922
+Logging runtime for _simulator_step()
+0.020584583282470703
+3.2922818660736084
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.049041748046875e-05
+Logging runtime for joint angle update in _step_callback()
+0.08458542823791504
+Logging runtime for _simulator_step()
+0.019268035888671875
+3.604945659637451
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08314347267150879
+Logging runtime for _simulator_step()
+0.01959705352783203
+3.9150116443634033
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.3909759521484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.09505748748779297
+Logging runtime for _simulator_step()
+0.019891023635864258
+4.240769624710083
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.1444091796875e-05
+Logging runtime for joint angle update in _step_callback()
+0.08804011344909668
+Logging runtime for _simulator_step()
+0.01959681510925293
+4.557459354400635
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.1682510375976562e-05
+Logging runtime for joint angle update in _step_callback()
+0.08371376991271973
+Logging runtime for _simulator_step()
+0.019728660583496094
+4.870627403259277
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.08074641227722168
+Logging runtime for _simulator_step()
+0.01918196678161621
+5.1812660694122314
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08168482780456543
+Logging runtime for _simulator_step()
+0.020854473114013672
+5.493000745773315
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08431720733642578
+Logging runtime for _simulator_step()
+0.021027565002441406
+5.8063013553619385
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.0846855640411377
+Logging runtime for _simulator_step()
+0.022600650787353516
+6.127248048782349
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.1444091796875e-05
+Logging runtime for joint angle update in _step_callback()
+0.08513164520263672
+Logging runtime for _simulator_step()
+0.021867990493774414
+6.442896604537964
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.08873105049133301
+Logging runtime for _simulator_step()
+0.026956558227539062
+6.769193410873413
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.0877983570098877
+Logging runtime for _simulator_step()
+0.020037412643432617
+7.086577415466309
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.049041748046875e-05
+Logging runtime for joint angle update in _step_callback()
+0.08599615097045898
+Logging runtime for _simulator_step()
+0.021302223205566406
+7.40993332862854
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.1205673217773438e-05
+Logging runtime for joint angle update in _step_callback()
+0.08705377578735352
+Logging runtime for _simulator_step()
+0.021511316299438477
+7.7317540645599365
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08360576629638672
+Logging runtime for _simulator_step()
+0.025661230087280273
+8.049578666687012
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.867813110351562e-06
+Logging runtime for joint angle update in _step_callback()
+0.09212160110473633
+Logging runtime for _simulator_step()
+0.020451784133911133
+8.372773170471191
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08712124824523926
+Logging runtime for _simulator_step()
+0.021000146865844727
+8.690608978271484
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.0728836059570312e-05
+Logging runtime for joint angle update in _step_callback()
+0.08889174461364746
+Logging runtime for _simulator_step()
+0.023981809616088867
+9.012763977050781
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.1920928955078125e-05
+Logging runtime for joint angle update in _step_callback()
+0.09369468688964844
+Logging runtime for _simulator_step()
+0.02110910415649414
+9.33773422241211
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.09025359153747559
+Logging runtime for _simulator_step()
+0.02234172821044922
+9.660783290863037
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.62939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.09005498886108398
+Logging runtime for _simulator_step()
+0.02521347999572754
+9.982778310775757
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.09434103965759277
+Logging runtime for _simulator_step()
+0.025620460510253906
+10.308530807495117
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.62939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08935856819152832
+Logging runtime for _simulator_step()
+0.02400064468383789
+10.629639387130737
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08763861656188965
+Logging runtime for _simulator_step()
+0.0235445499420166
+10.950378179550171
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.09168386459350586
+Logging runtime for _simulator_step()
+0.025545120239257812
+11.275752782821655
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.9550323486328125e-05
+Logging runtime for joint angle update in _step_callback()
+0.08776736259460449
+Logging runtime for _simulator_step()
+0.022900819778442383
+11.595255613327026
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.09269213676452637
+Logging runtime for _simulator_step()
+0.026189565658569336
+11.92025637626648
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.049041748046875e-05
+Logging runtime for joint angle update in _step_callback()
+0.0914316177368164
+Logging runtime for _simulator_step()
+0.020893573760986328
+12.23896074295044
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.09263920783996582
+Logging runtime for _simulator_step()
+0.021799325942993164
+12.561753273010254
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.08759117126464844
+Logging runtime for _simulator_step()
+0.028085947036743164
+12.88617753982544
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.3909759521484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.08635735511779785
+Logging runtime for _simulator_step()
+0.021327495574951172
+13.203739404678345
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.3909759521484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.08925652503967285
+Logging runtime for _simulator_step()
+0.022592544555664062
+13.522855758666992
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.09069538116455078
+Logging runtime for _simulator_step()
+0.025327682495117188
+13.849494695663452
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.1205673217773438e-05
+Logging runtime for joint angle update in _step_callback()
+0.08971428871154785
+Logging runtime for _simulator_step()
+0.022033214569091797
+14.175302267074585
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.1444091796875e-05
+Logging runtime for joint angle update in _step_callback()
+0.08923959732055664
+Logging runtime for _simulator_step()
+0.025962114334106445
+14.501421928405762
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.08972406387329102
+Logging runtime for _simulator_step()
+0.027074575424194336
+14.826183319091797
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.08595561981201172
+Logging runtime for _simulator_step()
+0.022243976593017578
+15.141794443130493
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.3909759521484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.08899927139282227
+Logging runtime for _simulator_step()
+0.02368903160095215
+15.462057828903198
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08819413185119629
+Logging runtime for _simulator_step()
+0.024169445037841797
+15.782029867172241
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.0894770622253418
+Logging runtime for _simulator_step()
+0.021498441696166992
+16.101398468017578
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.1920928955078125e-05
+Logging runtime for joint angle update in _step_callback()
+0.08630514144897461
+Logging runtime for _simulator_step()
+0.021745681762695312
+16.419920921325684
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.3909759521484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.08978009223937988
+Logging runtime for _simulator_step()
+0.02091670036315918
+16.738835096359253
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.08710932731628418
+Logging runtime for _simulator_step()
+0.021901607513427734
+17.055928707122803
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.09122657775878906
+Logging runtime for _simulator_step()
+0.023976564407348633
+17.378743171691895
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.67572021484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.09027576446533203
+Logging runtime for _simulator_step()
+0.024358034133911133
+17.70035457611084
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.67572021484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.08731555938720703
+Logging runtime for _simulator_step()
+0.024605512619018555
+18.018054485321045
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.09030890464782715
+Logging runtime for _simulator_step()
+0.02152085304260254
+18.342638731002808
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.0885777473449707
+Logging runtime for _simulator_step()
+0.0258636474609375
+18.66843318939209
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.08542418479919434
+Logging runtime for _simulator_step()
+0.021573781967163086
+18.990097999572754
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.0967254638671875e-05
+Logging runtime for joint angle update in _step_callback()
+0.09461760520935059
+Logging runtime for _simulator_step()
+0.025126934051513672
+19.3229820728302
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.7881393432617188e-05
+Logging runtime for joint angle update in _step_callback()
+0.09945392608642578
+Logging runtime for _simulator_step()
+0.023807287216186523
+19.66201901435852
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.08972644805908203
+Logging runtime for _simulator_step()
+0.024077177047729492
+19.98749279975891
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.62939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.09163904190063477
+Logging runtime for _simulator_step()
+0.022952795028686523
+20.311963081359863
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.62939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.09328198432922363
+Logging runtime for _simulator_step()
+0.02333545684814453
+20.636768341064453
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.1682510375976562e-05
+Logging runtime for joint angle update in _step_callback()
+0.09112143516540527
+Logging runtime for _simulator_step()
+0.02159714698791504
+20.956833839416504
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.1205673217773438e-05
+Logging runtime for joint angle update in _step_callback()
+0.09241342544555664
+Logging runtime for _simulator_step()
+0.02545905113220215
+21.289944648742676
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.08851337432861328
+Logging runtime for _simulator_step()
+0.02230525016784668
+21.60851287841797
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.621246337890625e-05
+Logging runtime for joint angle update in _step_callback()
+0.09414958953857422
+Logging runtime for _simulator_step()
+0.0245516300201416
+21.934779405593872
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.09175562858581543
+Logging runtime for _simulator_step()
+0.022089481353759766
+22.257119178771973
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.09145450592041016
+Logging runtime for _simulator_step()
+0.023537874221801758
+22.579967737197876
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.09351372718811035
+Logging runtime for _simulator_step()
+0.02075934410095215
+22.903318166732788
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.62939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08969783782958984
+Logging runtime for _simulator_step()
+0.022606611251831055
+23.22969150543213
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.1205673217773438e-05
+Logging runtime for joint angle update in _step_callback()
+0.09530186653137207
+Logging runtime for _simulator_step()
+0.020928144454956055
+23.555366039276123
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.3909759521484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.08854484558105469
+Logging runtime for _simulator_step()
+0.02165818214416504
+23.875281810760498
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.0894160270690918
+Logging runtime for _simulator_step()
+0.027701854705810547
+24.204456567764282
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.1682510375976562e-05
+Logging runtime for joint angle update in _step_callback()
+0.09257864952087402
+Logging runtime for _simulator_step()
+0.023241758346557617
+24.52969741821289
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.621246337890625e-05
+Logging runtime for joint angle update in _step_callback()
+0.09246110916137695
+Logging runtime for _simulator_step()
+0.02214360237121582
+24.8515305519104
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.0251998901367188e-05
+Logging runtime for joint angle update in _step_callback()
+0.09371495246887207
+Logging runtime for _simulator_step()
+0.022345542907714844
+25.176218509674072
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08820223808288574
+Logging runtime for _simulator_step()
+0.02458930015563965
+25.49857783317566
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08773255348205566
+Logging runtime for _simulator_step()
+0.022296428680419922
+25.818565845489502
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+8.106231689453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.09036684036254883
+Logging runtime for _simulator_step()
+0.021468400955200195
+26.139950037002563
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.0728836059570312e-05
+Logging runtime for joint angle update in _step_callback()
+0.08848786354064941
+Logging runtime for _simulator_step()
+0.024196386337280273
+26.46200656890869
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.621246337890625e-05
+Logging runtime for joint angle update in _step_callback()
+0.08601856231689453
+Logging runtime for _simulator_step()
+0.024943828582763672
+26.78148865699768
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.0251998901367188e-05
+Logging runtime for joint angle update in _step_callback()
+0.08843159675598145
+Logging runtime for _simulator_step()
+0.02375936508178711
+27.10883331298828
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.09279203414916992
+Logging runtime for _simulator_step()
+0.02635788917541504
+27.434720516204834
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+2.0503997802734375e-05
+Logging runtime for joint angle update in _step_callback()
+0.09119868278503418
+Logging runtime for _simulator_step()
+0.021803855895996094
+27.757368564605713
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.8835067749023438e-05
+Logging runtime for joint angle update in _step_callback()
+0.09482884407043457
+Logging runtime for _simulator_step()
+0.02812957763671875
+28.091986894607544
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.67572021484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.0957486629486084
+Logging runtime for _simulator_step()
+0.022455215454101562
+28.418063640594482
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.3909759521484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.08891415596008301
+Logging runtime for _simulator_step()
+0.02053999900817871
+28.738938331604004
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.08765339851379395
+Logging runtime for _simulator_step()
+0.021246671676635742
+29.057016849517822
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08793354034423828
+Logging runtime for _simulator_step()
+0.024720191955566406
+29.37839698791504
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.09224152565002441
+Logging runtime for _simulator_step()
+0.026677608489990234
+29.70552968978882
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+2.0265579223632812e-05
+Logging runtime for joint angle update in _step_callback()
+0.09237217903137207
+Logging runtime for _simulator_step()
+0.020713090896606445
+30.025078535079956
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.3909759521484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.08786678314208984
+Logging runtime for _simulator_step()
+0.024053335189819336
+30.347461462020874
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.62939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.0917513370513916
+Logging runtime for _simulator_step()
+0.024239063262939453
+30.67141556739807
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.3909759521484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.08970475196838379
+Logging runtime for _simulator_step()
+0.024870634078979492
+30.99344491958618
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.09611773490905762
+Logging runtime for _simulator_step()
+0.024583816528320312
+31.321665048599243
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.1444091796875e-05
+Logging runtime for joint angle update in _step_callback()
+0.10265111923217773
+Logging runtime for _simulator_step()
+0.026647090911865234
+31.671045303344727
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.09857678413391113
+Logging runtime for _simulator_step()
+0.02153325080871582
+32.001482248306274
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.3909759521484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.08787393569946289
+Logging runtime for _simulator_step()
+0.023173093795776367
+32.32158303260803
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.09315156936645508
+Logging runtime for _simulator_step()
+0.022983789443969727
+32.64435815811157
+32.851341009140015
+Logging reset time
+5.423727989196777
+Logging episode time
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.62939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.6511638164520264
+Logging runtime for _simulator_step()
+0.022220373153686523
+0.674532413482666
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.3909759521484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.09621024131774902
+Logging runtime for _simulator_step()
+0.024226665496826172
+1.0559186935424805
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.08574128150939941
+Logging runtime for _simulator_step()
+0.02095198631286621
+1.3720381259918213
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.3909759521484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.08322525024414062
+Logging runtime for _simulator_step()
+0.023789644241333008
+1.6892726421356201
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.09146976470947266
+Logging runtime for _simulator_step()
+0.024117231369018555
+2.0122032165527344
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.09276318550109863
+Logging runtime for _simulator_step()
+0.02061748504638672
+2.339904308319092
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.09143686294555664
+Logging runtime for _simulator_step()
+0.026755571365356445
+2.667933940887451
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08843374252319336
+Logging runtime for _simulator_step()
+0.024135828018188477
+2.991513252258301
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.67572021484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.08649754524230957
+Logging runtime for _simulator_step()
+0.02374577522277832
+3.3142454624176025
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.8596649169921875e-05
+Logging runtime for joint angle update in _step_callback()
+0.09421634674072266
+Logging runtime for _simulator_step()
+0.024270057678222656
+3.6424989700317383
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+9.298324584960938e-06
+Logging runtime for joint angle update in _step_callback()
+0.09790253639221191
+Logging runtime for _simulator_step()
+0.021387100219726562
+3.974591016769409
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.1205673217773438e-05
+Logging runtime for joint angle update in _step_callback()
+0.08478331565856934
+Logging runtime for _simulator_step()
+0.021666526794433594
+4.289994716644287
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.08965849876403809
+Logging runtime for _simulator_step()
+0.022075176239013672
+4.607281684875488
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08923482894897461
+Logging runtime for _simulator_step()
+0.024884939193725586
+4.930197477340698
+[[[ 0.          0.          0.          0.          0.
+    0.          0.          0.          0.          0.
+    0.          0.          0.          0.          0.
+    0.          0.          0.          0.          0.
+    0.          0.          0.          0.          0.
+    0.          0.         -0.02690317  0.          0.
+    0.          0.          0.          0.          0.
+    0.          0.          0.          0.          0.
+    0.          0.          0.          0.          0.
+    0.          0.          0.          0.          0.
+    0.          0.          0.          0.          0.
+    0.          0.          0.          0.          0.
+    0.          0.          0.          0.          0.
+    0.          0.          0.          0.          0.
+    0.          0.          0.          0.          0.
+    0.          0.          0.          0.          0.
+    0.        ]]]
+[[0.]]
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.67572021484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.08809757232666016
+Logging runtime for _simulator_step()
+0.02273392677307129
+5.25448751449585
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.09306669235229492
+Logging runtime for _simulator_step()
+0.0240478515625
+5.5879998207092285
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.0728836059570312e-05
+Logging runtime for joint angle update in _step_callback()
+0.08668899536132812
+Logging runtime for _simulator_step()
+0.021275758743286133
+5.906369209289551
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.08330965042114258
+Logging runtime for _simulator_step()
+0.022695302963256836
+6.221532821655273
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.08284187316894531
+Logging runtime for _simulator_step()
+0.02428889274597168
+6.536654233932495
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.08781647682189941
+Logging runtime for _simulator_step()
+0.023384809494018555
+6.854191780090332
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.09608340263366699
+Logging runtime for _simulator_step()
+0.021172046661376953
+7.17912483215332
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.67572021484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.09131932258605957
+Logging runtime for _simulator_step()
+0.0216982364654541
+7.502064228057861
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.0251998901367188e-05
+Logging runtime for joint angle update in _step_callback()
+0.0938253402709961
+Logging runtime for _simulator_step()
+0.023810148239135742
+7.827482461929321
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.09477424621582031
+Logging runtime for _simulator_step()
+0.02405834197998047
+8.15725064277649
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.0728836059570312e-05
+Logging runtime for joint angle update in _step_callback()
+0.09113216400146484
+Logging runtime for _simulator_step()
+0.022986412048339844
+8.48102593421936
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08925437927246094
+Logging runtime for _simulator_step()
+0.024054765701293945
+8.802679777145386
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.08904075622558594
+Logging runtime for _simulator_step()
+0.02050018310546875
+9.119608879089355
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.62939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08984160423278809
+Logging runtime for _simulator_step()
+0.02162456512451172
+9.44047999382019
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.08899760246276855
+Logging runtime for _simulator_step()
+0.021559715270996094
+9.7586088180542
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.08793354034423828
+Logging runtime for _simulator_step()
+0.025084733963012695
+10.083648443222046
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.1205673217773438e-05
+Logging runtime for joint angle update in _step_callback()
+0.08659911155700684
+Logging runtime for _simulator_step()
+0.024525165557861328
+10.406026840209961
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.09046363830566406
+Logging runtime for _simulator_step()
+0.025000810623168945
+10.73017168045044
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08627104759216309
+Logging runtime for _simulator_step()
+0.022598981857299805
+11.046866178512573
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.1444091796875e-05
+Logging runtime for joint angle update in _step_callback()
+0.09392356872558594
+Logging runtime for _simulator_step()
+0.023064374923706055
+11.37183666229248
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.0899667739868164
+Logging runtime for _simulator_step()
+0.02151036262512207
+11.691946744918823
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.62939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.09074735641479492
+Logging runtime for _simulator_step()
+0.02285456657409668
+12.013121128082275
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.0967254638671875e-05
+Logging runtime for joint angle update in _step_callback()
+0.08773279190063477
+Logging runtime for _simulator_step()
+0.02703380584716797
+12.335971355438232
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.0728836059570312e-05
+Logging runtime for joint angle update in _step_callback()
+0.08707809448242188
+Logging runtime for _simulator_step()
+0.021785259246826172
+12.654284477233887
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.5974044799804688e-05
+Logging runtime for joint angle update in _step_callback()
+0.08545589447021484
+Logging runtime for _simulator_step()
+0.0212399959564209
+12.976741075515747
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.67572021484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.09003853797912598
+Logging runtime for _simulator_step()
+0.02259063720703125
+13.29730224609375
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.67572021484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.08565402030944824
+Logging runtime for _simulator_step()
+0.0225222110748291
+13.612269639968872
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.08868646621704102
+Logging runtime for _simulator_step()
+0.023322105407714844
+13.933344602584839
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.6450881958007812e-05
+Logging runtime for joint angle update in _step_callback()
+0.09517073631286621
+Logging runtime for _simulator_step()
+0.02269744873046875
+14.2598717212677
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08962869644165039
+Logging runtime for _simulator_step()
+0.026959896087646484
+14.586332559585571
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08604955673217773
+Logging runtime for _simulator_step()
+0.022914886474609375
+14.902998924255371
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.621246337890625e-05
+Logging runtime for joint angle update in _step_callback()
+0.09312200546264648
+Logging runtime for _simulator_step()
+0.021863698959350586
+15.227729558944702
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.3909759521484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.08548402786254883
+Logging runtime for _simulator_step()
+0.02355027198791504
+15.54774808883667
+[[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+   0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+   0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+   0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]]
+[[0.]]
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.67572021484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.09258508682250977
+Logging runtime for _simulator_step()
+0.020656824111938477
+15.87110424041748
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08891606330871582
+Logging runtime for _simulator_step()
+0.02441573143005371
+16.192677974700928
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.09205150604248047
+Logging runtime for _simulator_step()
+0.027074337005615234
+16.51944375038147
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.1205673217773438e-05
+Logging runtime for joint angle update in _step_callback()
+0.08686327934265137
+Logging runtime for _simulator_step()
+0.022606372833251953
+16.837138652801514
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.09419631958007812
+Logging runtime for _simulator_step()
+0.021231412887573242
+17.158571243286133
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.3909759521484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.0934450626373291
+Logging runtime for _simulator_step()
+0.021590471267700195
+17.49032998085022
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.1444091796875e-05
+Logging runtime for joint angle update in _step_callback()
+0.09238576889038086
+Logging runtime for _simulator_step()
+0.024385452270507812
+17.816853046417236
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.67572021484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.08659148216247559
+Logging runtime for _simulator_step()
+0.02540731430053711
+18.136505126953125
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.0251998901367188e-05
+Logging runtime for joint angle update in _step_callback()
+0.09488701820373535
+Logging runtime for _simulator_step()
+0.028170108795166016
+18.467612981796265
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08555150032043457
+Logging runtime for _simulator_step()
+0.024122238159179688
+18.786132097244263
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.0973353385925293
+Logging runtime for _simulator_step()
+0.02236008644104004
+19.11444640159607
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08853030204772949
+Logging runtime for _simulator_step()
+0.027559995651245117
+19.436632871627808
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+9.775161743164062e-06
+Logging runtime for joint angle update in _step_callback()
+0.08998465538024902
+Logging runtime for _simulator_step()
+0.02158975601196289
+19.757269144058228
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.1682510375976562e-05
+Logging runtime for joint angle update in _step_callback()
+0.08787226676940918
+Logging runtime for _simulator_step()
+0.021733760833740234
+20.07548975944519
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.09098339080810547
+Logging runtime for _simulator_step()
+0.02327895164489746
+20.398326873779297
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.867813110351562e-06
+Logging runtime for joint angle update in _step_callback()
+0.08766722679138184
+Logging runtime for _simulator_step()
+0.025002479553222656
+20.722485542297363
+[[[ 0.          0.          0.         -0.01597395  0.
+    0.          0.          0.          0.          0.
+    0.          0.          0.          0.          0.
+    0.          0.          0.          0.          0.
+    0.          0.          0.          0.          0.
+    0.          0.          0.          0.          0.
+    0.          0.          0.          0.          0.
+    0.         -0.01597392  0.          0.          0.
+    0.          0.          0.          0.          0.
+    0.          0.          0.          0.          0.
+    0.          0.          0.          0.          0.
+    0.          0.          0.          0.          0.
+    0.          0.          0.          0.          0.
+    0.          0.          0.          0.          0.
+    0.          0.          0.          0.          0.
+    0.          0.          0.          0.          0.
+    0.        ]]]
+[[0.]]
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.67572021484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.08720159530639648
+Logging runtime for _simulator_step()
+0.020860910415649414
+21.03963613510132
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.08724308013916016
+Logging runtime for _simulator_step()
+0.02509450912475586
+21.35992169380188
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.67572021484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.09630894660949707
+Logging runtime for _simulator_step()
+0.02251148223876953
+21.695853233337402
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.09029102325439453
+Logging runtime for _simulator_step()
+0.023319482803344727
+22.01793885231018
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.0728836059570312e-05
+Logging runtime for joint angle update in _step_callback()
+0.08496379852294922
+Logging runtime for _simulator_step()
+0.023894071578979492
+22.335423469543457
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.3909759521484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.09139037132263184
+Logging runtime for _simulator_step()
+0.022517919540405273
+22.662320613861084
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08983993530273438
+Logging runtime for _simulator_step()
+0.02377772331237793
+22.98540759086609
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.8358230590820312e-05
+Logging runtime for joint angle update in _step_callback()
+0.09613656997680664
+Logging runtime for _simulator_step()
+0.02329277992248535
+23.312183141708374
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.4373016357421875e-06
+Logging runtime for joint angle update in _step_callback()
+0.10235309600830078
+Logging runtime for _simulator_step()
+0.024555444717407227
+23.64711833000183
+[[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+   0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+   0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+   0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]]
+[[0.]]
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.5735626220703125e-05
+Logging runtime for joint angle update in _step_callback()
+0.10455965995788574
+Logging runtime for _simulator_step()
+0.026608943939208984
+23.985597133636475
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.1920928955078125e-05
+Logging runtime for joint angle update in _step_callback()
+0.09454679489135742
+Logging runtime for _simulator_step()
+0.0231626033782959
+24.313700199127197
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.0882270336151123
+Logging runtime for _simulator_step()
+0.026588916778564453
+24.640304803848267
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.09265637397766113
+Logging runtime for _simulator_step()
+0.022320270538330078
+24.96203064918518
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.67572021484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.08769607543945312
+Logging runtime for _simulator_step()
+0.023537635803222656
+25.281586170196533
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.3909759521484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.09018778800964355
+Logging runtime for _simulator_step()
+0.02405834197998047
+25.607168912887573
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.09509110450744629
+Logging runtime for _simulator_step()
+0.027958154678344727
+25.943116188049316
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.8835067749023438e-05
+Logging runtime for joint angle update in _step_callback()
+0.09500384330749512
+Logging runtime for _simulator_step()
+0.022185564041137695
+26.274675846099854
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.09223318099975586
+Logging runtime for _simulator_step()
+0.02574896812438965
+26.60237431526184
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.09166216850280762
+Logging runtime for _simulator_step()
+0.023357868194580078
+26.92638325691223
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.09811568260192871
+Logging runtime for _simulator_step()
+0.022388696670532227
+27.255019426345825
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.09144330024719238
+Logging runtime for _simulator_step()
+0.02144765853881836
+27.57391357421875
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.09129762649536133
+Logging runtime for _simulator_step()
+0.022511720657348633
+27.893441200256348
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.09659767150878906
+Logging runtime for _simulator_step()
+0.026803255081176758
+28.224414110183716
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.3909759521484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.095123291015625
+Logging runtime for _simulator_step()
+0.025408029556274414
+28.55198574066162
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.0955502986907959
+Logging runtime for _simulator_step()
+0.02543354034423828
+28.882264137268066
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+2.3126602172851562e-05
+Logging runtime for joint angle update in _step_callback()
+0.09773516654968262
+Logging runtime for _simulator_step()
+0.0273590087890625
+29.214587450027466
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.09691023826599121
+Logging runtime for _simulator_step()
+0.022608280181884766
+29.542080640792847
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.049041748046875e-05
+Logging runtime for joint angle update in _step_callback()
+0.0971682071685791
+Logging runtime for _simulator_step()
+0.023470401763916016
+29.872888565063477
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.09048986434936523
+Logging runtime for _simulator_step()
+0.021436214447021484
+30.19127345085144
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08941245079040527
+Logging runtime for _simulator_step()
+0.025359392166137695
+30.514957189559937
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.3909759521484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.09971976280212402
+Logging runtime for _simulator_step()
+0.023888587951660156
+30.84770393371582
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.0887753963470459
+Logging runtime for _simulator_step()
+0.021918535232543945
+31.16972541809082
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.3909759521484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.09317636489868164
+Logging runtime for _simulator_step()
+0.021423816680908203
+31.49284791946411
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.09192371368408203
+Logging runtime for _simulator_step()
+0.024341106414794922
+31.818997621536255
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.867813110351562e-06
+Logging runtime for joint angle update in _step_callback()
+0.09342408180236816
+Logging runtime for _simulator_step()
+0.025774478912353516
+32.14816927909851
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.67572021484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.08901596069335938
+Logging runtime for _simulator_step()
+0.023409605026245117
+32.470760107040405
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.1682510375976562e-05
+Logging runtime for joint angle update in _step_callback()
+0.08365440368652344
+Logging runtime for _simulator_step()
+0.028130531311035156
+32.79040789604187
+33.003462076187134
+Logging reset time
+5.432403087615967
+Logging episode time
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.6927719116210938e-05
+Logging runtime for joint angle update in _step_callback()
+0.770087480545044
+Logging runtime for _simulator_step()
+0.02617192268371582
+0.797400951385498
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.2874603271484375e-05
+Logging runtime for joint angle update in _step_callback()
+0.09123587608337402
+Logging runtime for _simulator_step()
+0.025174856185913086
+1.1741876602172852
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.049041748046875e-05
+Logging runtime for joint angle update in _step_callback()
+0.08847451210021973
+Logging runtime for _simulator_step()
+0.024431467056274414
+1.4954330921173096
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.09313297271728516
+Logging runtime for _simulator_step()
+0.02115631103515625
+1.819371223449707
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08793139457702637
+Logging runtime for _simulator_step()
+0.022943735122680664
+2.142575740814209
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.0967254638671875e-05
+Logging runtime for joint angle update in _step_callback()
+0.09128069877624512
+Logging runtime for _simulator_step()
+0.027126312255859375
+2.4684457778930664
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.0960845947265625
+Logging runtime for _simulator_step()
+0.021269798278808594
+2.798633575439453
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.3909759521484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.08700847625732422
+Logging runtime for _simulator_step()
+0.022159814834594727
+3.1153769493103027
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.10605549812316895
+Logging runtime for _simulator_step()
+0.024695396423339844
+3.459913730621338
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.67572021484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.08811521530151367
+Logging runtime for _simulator_step()
+0.023913860321044922
+3.782621145248413
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.67572021484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.08420681953430176
+Logging runtime for _simulator_step()
+0.02214527130126953
+4.098496198654175
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.1205673217773438e-05
+Logging runtime for joint angle update in _step_callback()
+0.0939018726348877
+Logging runtime for _simulator_step()
+0.023220300674438477
+4.426234722137451
+[[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+   0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+   0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+   0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]]
+[[0.]]
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.09139704704284668
+Logging runtime for _simulator_step()
+0.024285078048706055
+4.759072780609131
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.3909759521484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.09144473075866699
+Logging runtime for _simulator_step()
+0.022675752639770508
+5.082704067230225
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.3909759521484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.08801674842834473
+Logging runtime for _simulator_step()
+0.025568485260009766
+5.4056501388549805
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08806872367858887
+Logging runtime for _simulator_step()
+0.02429056167602539
+5.729515790939331
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.67572021484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.08811116218566895
+Logging runtime for _simulator_step()
+0.02443242073059082
+6.051864862442017
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.67572021484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.09233474731445312
+Logging runtime for _simulator_step()
+0.02269768714904785
+6.377943992614746
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.0882730484008789
+Logging runtime for _simulator_step()
+0.022226333618164062
+6.699969053268433
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08871674537658691
+Logging runtime for _simulator_step()
+0.021424055099487305
+7.019838571548462
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.0948324203491211
+Logging runtime for _simulator_step()
+0.025846481323242188
+7.3490259647369385
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08773469924926758
+Logging runtime for _simulator_step()
+0.025681257247924805
+7.672990322113037
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.09874391555786133
+Logging runtime for _simulator_step()
+0.024761676788330078
+8.006771087646484
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.0251998901367188e-05
+Logging runtime for joint angle update in _step_callback()
+0.0888826847076416
+Logging runtime for _simulator_step()
+0.024907588958740234
+8.331015348434448
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.08413863182067871
+Logging runtime for _simulator_step()
+0.025322437286376953
+8.651844024658203
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08956766128540039
+Logging runtime for _simulator_step()
+0.024837493896484375
+8.973544120788574
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.08985495567321777
+Logging runtime for _simulator_step()
+0.026915311813354492
+9.303256273269653
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.3909759521484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.09131693840026855
+Logging runtime for _simulator_step()
+0.02331066131591797
+9.629267692565918
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.67572021484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.0880594253540039
+Logging runtime for _simulator_step()
+0.026952028274536133
+9.953988075256348
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.10132408142089844
+Logging runtime for _simulator_step()
+0.021136999130249023
+10.28763222694397
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08919358253479004
+Logging runtime for _simulator_step()
+0.02202749252319336
+10.606276273727417
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.67572021484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.09453487396240234
+Logging runtime for _simulator_step()
+0.02247762680053711
+10.933555603027344
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.67572021484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.08979678153991699
+Logging runtime for _simulator_step()
+0.03038191795349121
+11.269639253616333
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.09143757820129395
+Logging runtime for _simulator_step()
+0.02190852165222168
+11.599141359329224
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.09151005744934082
+Logging runtime for _simulator_step()
+0.022116661071777344
+11.92084789276123
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.09028792381286621
+Logging runtime for _simulator_step()
+0.027799367904663086
+12.252150774002075
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.09354639053344727
+Logging runtime for _simulator_step()
+0.023618698120117188
+12.576817274093628
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.1205673217773438e-05
+Logging runtime for joint angle update in _step_callback()
+0.09922122955322266
+Logging runtime for _simulator_step()
+0.022100448608398438
+12.90830373764038
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.08919835090637207
+Logging runtime for _simulator_step()
+0.028620004653930664
+13.23609209060669
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.67572021484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.08859753608703613
+Logging runtime for _simulator_step()
+0.02572178840637207
+13.560521364212036
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.0013580322265625e-05
+Logging runtime for joint angle update in _step_callback()
+0.08675646781921387
+Logging runtime for _simulator_step()
+0.02653050422668457
+13.88192343711853
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.3909759521484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.08951306343078613
+Logging runtime for _simulator_step()
+0.021886825561523438
+14.20529294013977
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.0967254638671875e-05
+Logging runtime for joint angle update in _step_callback()
+0.09002041816711426
+Logging runtime for _simulator_step()
+0.024433612823486328
+14.528278350830078
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.1205673217773438e-05
+Logging runtime for joint angle update in _step_callback()
+0.09348320960998535
+Logging runtime for _simulator_step()
+0.02082991600036621
+14.853603839874268
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.3909759521484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.08978891372680664
+Logging runtime for _simulator_step()
+0.022824525833129883
+15.174367666244507
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08893752098083496
+Logging runtime for _simulator_step()
+0.022559642791748047
+15.49228549003601
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.0856485366821289
+Logging runtime for _simulator_step()
+0.022362232208251953
+15.806764841079712
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.4373016357421875e-06
+Logging runtime for joint angle update in _step_callback()
+0.08858537673950195
+Logging runtime for _simulator_step()
+0.02651357650756836
+16.134655714035034
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.09119391441345215
+Logging runtime for _simulator_step()
+0.027570009231567383
+16.462652444839478
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+9.775161743164062e-06
+Logging runtime for joint angle update in _step_callback()
+0.09671235084533691
+Logging runtime for _simulator_step()
+0.02371072769165039
+16.79188060760498
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.5974044799804688e-05
+Logging runtime for joint angle update in _step_callback()
+0.10222053527832031
+Logging runtime for _simulator_step()
+0.026211977005004883
+17.129586458206177
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.67572021484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.08907437324523926
+Logging runtime for _simulator_step()
+0.0239715576171875
+17.45218300819397
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.09102129936218262
+Logging runtime for _simulator_step()
+0.023348093032836914
+17.778345108032227
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.67572021484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.09038066864013672
+Logging runtime for _simulator_step()
+0.020050525665283203
+18.103864192962646
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.3909759521484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.09040427207946777
+Logging runtime for _simulator_step()
+0.027885913848876953
+18.431342840194702
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.3909759521484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.08998632431030273
+Logging runtime for _simulator_step()
+0.023845911026000977
+18.764829397201538
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.0967254638671875e-05
+Logging runtime for joint angle update in _step_callback()
+0.09271407127380371
+Logging runtime for _simulator_step()
+0.0205533504486084
+19.0856454372406
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.0965721607208252
+Logging runtime for _simulator_step()
+0.02320718765258789
+19.415439128875732
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.67572021484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.09578609466552734
+Logging runtime for _simulator_step()
+0.023072004318237305
+19.74228596687317
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08893656730651855
+Logging runtime for _simulator_step()
+0.02098989486694336
+20.067940711975098
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+8.344650268554688e-06
+Logging runtime for joint angle update in _step_callback()
+0.09093213081359863
+Logging runtime for _simulator_step()
+0.023590803146362305
+20.391169548034668
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.621246337890625e-05
+Logging runtime for joint angle update in _step_callback()
+0.09037971496582031
+Logging runtime for _simulator_step()
+0.024962186813354492
+20.715821981430054
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.67572021484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.08642411231994629
+Logging runtime for _simulator_step()
+0.02170276641845703
+21.04271411895752
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.1682510375976562e-05
+Logging runtime for joint angle update in _step_callback()
+0.0924997329711914
+Logging runtime for _simulator_step()
+0.022098064422607422
+21.374735116958618
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.049041748046875e-05
+Logging runtime for joint angle update in _step_callback()
+0.08838748931884766
+Logging runtime for _simulator_step()
+0.023190021514892578
+21.694172859191895
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.621246337890625e-05
+Logging runtime for joint angle update in _step_callback()
+0.09629511833190918
+Logging runtime for _simulator_step()
+0.020952701568603516
+22.02146315574646
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.09157276153564453
+Logging runtime for _simulator_step()
+0.027724742889404297
+22.34830117225647
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.09185171127319336
+Logging runtime for _simulator_step()
+0.025242328643798828
+22.682647466659546
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.1205673217773438e-05
+Logging runtime for joint angle update in _step_callback()
+0.0969853401184082
+Logging runtime for _simulator_step()
+0.024335384368896484
+23.01128625869751
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.5735626220703125e-05
+Logging runtime for joint angle update in _step_callback()
+0.09052538871765137
+Logging runtime for _simulator_step()
+0.021784067153930664
+23.334232807159424
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.09232592582702637
+Logging runtime for _simulator_step()
+0.02120375633239746
+23.657017469406128
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.09402680397033691
+Logging runtime for _simulator_step()
+0.02191329002380371
+23.988068342208862
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.67572021484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.08967423439025879
+Logging runtime for _simulator_step()
+0.02400517463684082
+24.31236982345581
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08896899223327637
+Logging runtime for _simulator_step()
+0.024390459060668945
+24.64479660987854
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.67572021484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.09631204605102539
+Logging runtime for _simulator_step()
+0.024076223373413086
+24.97226357460022
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.67572021484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.09549498558044434
+Logging runtime for _simulator_step()
+0.02353811264038086
+25.30294108390808
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.09849786758422852
+Logging runtime for _simulator_step()
+0.02489757537841797
+25.63666868209839
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.09736943244934082
+Logging runtime for _simulator_step()
+0.022458553314208984
+25.965962886810303
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.0988762378692627
+Logging runtime for _simulator_step()
+0.024123191833496094
+26.299487113952637
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.0928492546081543
+Logging runtime for _simulator_step()
+0.022014141082763672
+26.62317156791687
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.0967254638671875e-05
+Logging runtime for joint angle update in _step_callback()
+0.09344792366027832
+Logging runtime for _simulator_step()
+0.02702164649963379
+26.951905965805054
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.5974044799804688e-05
+Logging runtime for joint angle update in _step_callback()
+0.09250926971435547
+Logging runtime for _simulator_step()
+0.025237321853637695
+27.278000354766846
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.67572021484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.08963346481323242
+Logging runtime for _simulator_step()
+0.022535324096679688
+27.600156784057617
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.09306001663208008
+Logging runtime for _simulator_step()
+0.022947072982788086
+27.929064989089966
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.1444091796875e-05
+Logging runtime for joint angle update in _step_callback()
+0.09440732002258301
+Logging runtime for _simulator_step()
+0.021782636642456055
+28.252477645874023
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.62939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08600807189941406
+Logging runtime for _simulator_step()
+0.021830320358276367
+28.57360816001892
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08727812767028809
+Logging runtime for _simulator_step()
+0.02230548858642578
+28.892499446868896
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.1444091796875e-05
+Logging runtime for joint angle update in _step_callback()
+0.09972405433654785
+Logging runtime for _simulator_step()
+0.0225527286529541
+29.22533941268921
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.049041748046875e-05
+Logging runtime for joint angle update in _step_callback()
+0.08904314041137695
+Logging runtime for _simulator_step()
+0.023369312286376953
+29.543932914733887
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+8.821487426757812e-06
+Logging runtime for joint angle update in _step_callback()
+0.09370923042297363
+Logging runtime for _simulator_step()
+0.025064945220947266
+29.86993932723999
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.09183478355407715
+Logging runtime for _simulator_step()
+0.028470516204833984
+30.198911428451538
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08809614181518555
+Logging runtime for _simulator_step()
+0.02504110336303711
+30.525741577148438
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+8.106231689453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.09543895721435547
+Logging runtime for _simulator_step()
+0.021160602569580078
+30.85413670539856
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.62939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08609795570373535
+Logging runtime for _simulator_step()
+0.021231889724731445
+31.170623779296875
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+9.059906005859375e-06
+Logging runtime for joint angle update in _step_callback()
+0.08801150321960449
+Logging runtime for _simulator_step()
+0.023983240127563477
+31.4939284324646
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.0728836059570312e-05
+Logging runtime for joint angle update in _step_callback()
+0.08913755416870117
+Logging runtime for _simulator_step()
+0.024475574493408203
+31.825392723083496
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.049041748046875e-05
+Logging runtime for joint angle update in _step_callback()
+0.09100580215454102
+Logging runtime for _simulator_step()
+0.02383732795715332
+32.152911901474
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.1205673217773438e-05
+Logging runtime for joint angle update in _step_callback()
+0.08763790130615234
+Logging runtime for _simulator_step()
+0.02449345588684082
+32.475369930267334
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08751702308654785
+Logging runtime for _simulator_step()
+0.022430419921875
+32.798346281051636
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.198883056640625e-06
+Logging runtime for joint angle update in _step_callback()
+0.08553004264831543
+Logging runtime for _simulator_step()
+0.024153947830200195
+33.11726903915405
+33.32444429397583
+Logging reset time
+5.426057815551758
+Logging episode time
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.3909759521484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.7112436294555664
+Logging runtime for _simulator_step()
+0.022534608840942383
+0.7348716259002686
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.3909759521484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.09069132804870605
+Logging runtime for _simulator_step()
+0.024639606475830078
+1.112147331237793
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.7642974853515625e-05
+Logging runtime for joint angle update in _step_callback()
+0.09681224822998047
+Logging runtime for _simulator_step()
+0.025429487228393555
+1.4461915493011475
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.09401988983154297
+Logging runtime for _simulator_step()
+0.022666215896606445
+1.772284984588623
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.67572021484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.09343338012695312
+Logging runtime for _simulator_step()
+0.02342534065246582
+2.0986125469207764
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.67572021484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.08861160278320312
+Logging runtime for _simulator_step()
+0.020027875900268555
+2.4162778854370117
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.1920928955078125e-05
+Logging runtime for joint angle update in _step_callback()
+0.09137177467346191
+Logging runtime for _simulator_step()
+0.02020263671875
+2.73747181892395
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.2159347534179688e-05
+Logging runtime for joint angle update in _step_callback()
+0.08863210678100586
+Logging runtime for _simulator_step()
+0.024645328521728516
+3.0577964782714844
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.1205673217773438e-05
+Logging runtime for joint angle update in _step_callback()
+0.0921330451965332
+Logging runtime for _simulator_step()
+0.026067495346069336
+3.3932480812072754
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.67572021484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.08816885948181152
+Logging runtime for _simulator_step()
+0.021829843521118164
+3.7103540897369385
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+9.5367431640625e-06
+Logging runtime for joint angle update in _step_callback()
+0.08563446998596191
+Logging runtime for _simulator_step()
+0.02063441276550293
+4.036459684371948
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.08947229385375977
+Logging runtime for _simulator_step()
+0.026276350021362305
+4.362645387649536
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.0967254638671875e-05
+Logging runtime for joint angle update in _step_callback()
+0.09059405326843262
+Logging runtime for _simulator_step()
+0.023598194122314453
+4.685070276260376
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+2.5272369384765625e-05
+Logging runtime for joint angle update in _step_callback()
+0.09174180030822754
+Logging runtime for _simulator_step()
+0.02116250991821289
+5.0059285163879395
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.049041748046875e-05
+Logging runtime for joint angle update in _step_callback()
+0.0870206356048584
+Logging runtime for _simulator_step()
+0.022260189056396484
+5.324859142303467
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.67572021484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.09077882766723633
+Logging runtime for _simulator_step()
+0.022525548934936523
+5.64439058303833
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.049041748046875e-05
+Logging runtime for joint angle update in _step_callback()
+0.09487152099609375
+Logging runtime for _simulator_step()
+0.02195262908935547
+5.970959424972534
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.09671306610107422
+Logging runtime for _simulator_step()
+0.03202962875366211
+6.310882091522217
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.0967254638671875e-05
+Logging runtime for joint angle update in _step_callback()
+0.08504581451416016
+Logging runtime for _simulator_step()
+0.025366544723510742
+6.632870197296143
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.0251998901367188e-05
+Logging runtime for joint angle update in _step_callback()
+0.09802579879760742
+Logging runtime for _simulator_step()
+0.02274036407470703
+6.962973117828369
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.049041748046875e-05
+Logging runtime for joint angle update in _step_callback()
+0.0941152572631836
+Logging runtime for _simulator_step()
+0.02214670181274414
+7.291078567504883
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.09075164794921875
+Logging runtime for _simulator_step()
+0.028656721115112305
+7.620661735534668
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.1205673217773438e-05
+Logging runtime for joint angle update in _step_callback()
+0.09101581573486328
+Logging runtime for _simulator_step()
+0.025923728942871094
+7.947155952453613
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08835697174072266
+Logging runtime for _simulator_step()
+0.025809526443481445
+8.271193027496338
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.08936643600463867
+Logging runtime for _simulator_step()
+0.02179098129272461
+8.591871738433838
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08705925941467285
+Logging runtime for _simulator_step()
+0.025127649307250977
+8.916356086730957
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+8.821487426757812e-06
+Logging runtime for joint angle update in _step_callback()
+0.08646845817565918
+Logging runtime for _simulator_step()
+0.02419900894165039
+9.240437030792236
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.621246337890625e-05
+Logging runtime for joint angle update in _step_callback()
+0.09262967109680176
+Logging runtime for _simulator_step()
+0.02416682243347168
+9.567565202713013
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.5974044799804688e-05
+Logging runtime for joint angle update in _step_callback()
+0.09037017822265625
+Logging runtime for _simulator_step()
+0.022582292556762695
+9.890271663665771
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.621246337890625e-05
+Logging runtime for joint angle update in _step_callback()
+0.08773446083068848
+Logging runtime for _simulator_step()
+0.02335810661315918
+10.212285995483398
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.67572021484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.08916234970092773
+Logging runtime for _simulator_step()
+0.02295994758605957
+10.53430986404419
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08733654022216797
+Logging runtime for _simulator_step()
+0.022487163543701172
+10.855353355407715
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.67572021484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.08773446083068848
+Logging runtime for _simulator_step()
+0.024983644485473633
+11.17899203300476
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08829474449157715
+Logging runtime for _simulator_step()
+0.024129867553710938
+11.498456954956055
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.09022021293640137
+Logging runtime for _simulator_step()
+0.020073890686035156
+11.817884922027588
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08864927291870117
+Logging runtime for _simulator_step()
+0.023346424102783203
+12.144414186477661
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.0728836059570312e-05
+Logging runtime for joint angle update in _step_callback()
+0.09046578407287598
+Logging runtime for _simulator_step()
+0.02264571189880371
+12.469105243682861
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.3909759521484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.09060502052307129
+Logging runtime for _simulator_step()
+0.027682781219482422
+12.799047946929932
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.4373016357421875e-06
+Logging runtime for joint angle update in _step_callback()
+0.091522216796875
+Logging runtime for _simulator_step()
+0.020551681518554688
+13.11985969543457
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.0728836059570312e-05
+Logging runtime for joint angle update in _step_callback()
+0.08879899978637695
+Logging runtime for _simulator_step()
+0.02570486068725586
+13.44495677947998
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.0728836059570312e-05
+Logging runtime for joint angle update in _step_callback()
+0.09078431129455566
+Logging runtime for _simulator_step()
+0.02146315574645996
+13.769502878189087
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.049041748046875e-05
+Logging runtime for joint angle update in _step_callback()
+0.09682297706604004
+Logging runtime for _simulator_step()
+0.024068355560302734
+14.102270603179932
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08943629264831543
+Logging runtime for _simulator_step()
+0.022570133209228516
+14.424917697906494
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.09660744667053223
+Logging runtime for _simulator_step()
+0.02321004867553711
+14.754655122756958
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+8.344650268554688e-06
+Logging runtime for joint angle update in _step_callback()
+0.09004592895507812
+Logging runtime for _simulator_step()
+0.02229785919189453
+15.076497554779053
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.09764885902404785
+Logging runtime for _simulator_step()
+0.02510380744934082
+15.411535263061523
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.5735626220703125e-05
+Logging runtime for joint angle update in _step_callback()
+0.09101271629333496
+Logging runtime for _simulator_step()
+0.022109508514404297
+15.736115217208862
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.0911405086517334
+Logging runtime for _simulator_step()
+0.022068023681640625
+16.058204412460327
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.4373016357421875e-06
+Logging runtime for joint angle update in _step_callback()
+0.09423303604125977
+Logging runtime for _simulator_step()
+0.021505355834960938
+16.387535572052002
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.09406638145446777
+Logging runtime for _simulator_step()
+0.023214340209960938
+16.71696949005127
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.0893239974975586
+Logging runtime for _simulator_step()
+0.0218050479888916
+17.038816928863525
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.67572021484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.0894472599029541
+Logging runtime for _simulator_step()
+0.025151729583740234
+17.369022607803345
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.2159347534179688e-05
+Logging runtime for joint angle update in _step_callback()
+0.09087657928466797
+Logging runtime for _simulator_step()
+0.022455453872680664
+17.691051483154297
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.0967254638671875e-05
+Logging runtime for joint angle update in _step_callback()
+0.09443116188049316
+Logging runtime for _simulator_step()
+0.027453899383544922
+18.021706104278564
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.1205673217773438e-05
+Logging runtime for joint angle update in _step_callback()
+0.09806585311889648
+Logging runtime for _simulator_step()
+0.02151632308959961
+18.348831176757812
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.09664082527160645
+Logging runtime for _simulator_step()
+0.025960206985473633
+18.682979822158813
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08940005302429199
+Logging runtime for _simulator_step()
+0.02047443389892578
+19.003065586090088
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.3909759521484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.08679914474487305
+Logging runtime for _simulator_step()
+0.024340391159057617
+19.324102878570557
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.67572021484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.09295296669006348
+Logging runtime for _simulator_step()
+0.02373480796813965
+19.652045488357544
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.67572021484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.09136509895324707
+Logging runtime for _simulator_step()
+0.025364398956298828
+19.97940993309021
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08983469009399414
+Logging runtime for _simulator_step()
+0.02532672882080078
+20.304285764694214
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.67572021484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.09189558029174805
+Logging runtime for _simulator_step()
+0.024680614471435547
+20.63727045059204
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.621246337890625e-05
+Logging runtime for joint angle update in _step_callback()
+0.08639240264892578
+Logging runtime for _simulator_step()
+0.02260446548461914
+20.955891609191895
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.1920928955078125e-05
+Logging runtime for joint angle update in _step_callback()
+0.0925898551940918
+Logging runtime for _simulator_step()
+0.022712230682373047
+21.28326725959778
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.1205673217773438e-05
+Logging runtime for joint angle update in _step_callback()
+0.0904386043548584
+Logging runtime for _simulator_step()
+0.022556066513061523
+21.608602046966553
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.09111189842224121
+Logging runtime for _simulator_step()
+0.023480892181396484
+21.931468725204468
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+8.821487426757812e-06
+Logging runtime for joint angle update in _step_callback()
+0.09314703941345215
+Logging runtime for _simulator_step()
+0.024118423461914062
+22.261512756347656
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.67572021484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.09438014030456543
+Logging runtime for _simulator_step()
+0.02175593376159668
+22.588842630386353
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.0967254638671875e-05
+Logging runtime for joint angle update in _step_callback()
+0.09283614158630371
+Logging runtime for _simulator_step()
+0.025650978088378906
+22.917131185531616
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.0967254638671875e-05
+Logging runtime for joint angle update in _step_callback()
+0.08866214752197266
+Logging runtime for _simulator_step()
+0.02287578582763672
+23.240745544433594
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.5974044799804688e-05
+Logging runtime for joint angle update in _step_callback()
+0.09268808364868164
+Logging runtime for _simulator_step()
+0.024358749389648438
+23.567008018493652
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.0903325080871582
+Logging runtime for _simulator_step()
+0.021923542022705078
+23.888783931732178
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.0728836059570312e-05
+Logging runtime for joint angle update in _step_callback()
+0.09331321716308594
+Logging runtime for _simulator_step()
+0.024644136428833008
+24.21547245979309
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.08538126945495605
+Logging runtime for _simulator_step()
+0.024349212646484375
+24.5353364944458
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.09026718139648438
+Logging runtime for _simulator_step()
+0.02239370346069336
+24.860902786254883
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.09235811233520508
+Logging runtime for _simulator_step()
+0.02420353889465332
+25.185871362686157
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.0967254638671875e-05
+Logging runtime for joint angle update in _step_callback()
+0.0897676944732666
+Logging runtime for _simulator_step()
+0.024367809295654297
+25.51216721534729
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+9.5367431640625e-06
+Logging runtime for joint angle update in _step_callback()
+0.09085893630981445
+Logging runtime for _simulator_step()
+0.02309417724609375
+25.83394980430603
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.09371042251586914
+Logging runtime for _simulator_step()
+0.023862600326538086
+26.162196397781372
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.3909759521484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.09580779075622559
+Logging runtime for _simulator_step()
+0.028202295303344727
+26.49681067466736
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.67572021484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.09319043159484863
+Logging runtime for _simulator_step()
+0.021049022674560547
+26.820775508880615
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.1444091796875e-05
+Logging runtime for joint angle update in _step_callback()
+0.09593462944030762
+Logging runtime for _simulator_step()
+0.02421259880065918
+27.151159524917603
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08656930923461914
+Logging runtime for _simulator_step()
+0.02301311492919922
+27.470248699188232
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08796143531799316
+Logging runtime for _simulator_step()
+0.021432161331176758
+27.789810180664062
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.5974044799804688e-05
+Logging runtime for joint angle update in _step_callback()
+0.08710050582885742
+Logging runtime for _simulator_step()
+0.02342963218688965
+28.11081862449646
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.1682510375976562e-05
+Logging runtime for joint angle update in _step_callback()
+0.0965723991394043
+Logging runtime for _simulator_step()
+0.022587060928344727
+28.438744068145752
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.152557373046875e-06
+Logging runtime for joint angle update in _step_callback()
+0.09296345710754395
+Logging runtime for _simulator_step()
+0.023464441299438477
+28.762619733810425
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.67572021484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.09341621398925781
+Logging runtime for _simulator_step()
+0.024600744247436523
+29.08692169189453
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.3909759521484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.08926510810852051
+Logging runtime for _simulator_step()
+0.022240161895751953
+29.40644121170044
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.09016132354736328
+Logging runtime for _simulator_step()
+0.02124953269958496
+29.735639810562134
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.049041748046875e-05
+Logging runtime for joint angle update in _step_callback()
+0.0966184139251709
+Logging runtime for _simulator_step()
+0.027724027633666992
+30.065964698791504
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.0967254638671875e-05
+Logging runtime for joint angle update in _step_callback()
+0.08858990669250488
+Logging runtime for _simulator_step()
+0.021345853805541992
+30.38854742050171
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08471393585205078
+Logging runtime for _simulator_step()
+0.0210115909576416
+30.702574491500854
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08790755271911621
+Logging runtime for _simulator_step()
+0.02053523063659668
+31.02129626274109
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.0894784927368164
+Logging runtime for _simulator_step()
+0.02436971664428711
+31.34447431564331
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.3909759521484375e-06
+Logging runtime for joint angle update in _step_callback()
+0.09060382843017578
+Logging runtime for _simulator_step()
+0.023514986038208008
+31.668951749801636
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+8.344650268554688e-06
+Logging runtime for joint angle update in _step_callback()
+0.09107351303100586
+Logging runtime for _simulator_step()
+0.022669076919555664
+31.99183702468872
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+1.5735626220703125e-05
+Logging runtime for joint angle update in _step_callback()
+0.089111328125
+Logging runtime for _simulator_step()
+0.023745059967041016
+32.312440156936646
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+6.9141387939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.0908958911895752
+Logging runtime for _simulator_step()
+0.021337509155273438
+32.63347339630127
+Logging Simulator update time
+Logging action update in env.step
+Logging runtime for bound check in _step_callback()
+7.62939453125e-06
+Logging runtime for joint angle update in _step_callback()
+0.08304715156555176
+Logging runtime for _simulator_step()
+0.02415180206298828
+32.94968819618225
+33.156718015670776
+Logging reset time
+9.453944683074951
+Logging reset time
+5.416950941085815
+Logging reset time
+5.419787883758545
+Logging reset time
+5.421483993530273
+Logging reset time
+5.425951242446899
+Logging reset time
+6.7928221225738525
+Logging reset time
+8.765178442001343
+Logging reset time
+5.410844802856445
+Logging reset time
+5.426360845565796
+Logging reset time
+5.4262871742248535
+Logging reset time
+5.418919324874878
+Logging reset time
+5.429662704467773
+Logging reset time
+5.425373077392578
+Logging reset time
+5.427244663238525
+Logging reset time
+5.432640075683594
+Logging reset time
+5.437349319458008
+Logging reset time
+5.4418721199035645
+Logging reset time
+5.429449796676636
+Logging reset time
+5.433436155319214
+Logging reset time
+5.438979148864746
+Logging reset time
+5.439478397369385
+Logging reset time
+5.429350137710571
+Logging reset time
+5.472550868988037
+Logging reset time
+5.423764228820801
+Logging reset time
+5.428367614746094
+Logging reset time
+5.43139910697937
+Logging reset time
+5.43129301071167
+Logging reset time
+5.430614233016968
+Logging reset time
+5.435581922531128
+Logging reset time
+5.4313435554504395
+Logging reset time
+5.426992177963257
+Logging reset time
+5.421581506729126
+Logging reset time
+5.422461271286011
+Logging reset time
+5.430277585983276
+Logging reset time
+5.434747934341431
+Logging reset time
+5.439678430557251
+Logging reset time
+5.434127569198608
+Logging reset time
+5.431532144546509
+Logging reset time
+5.424976110458374
+Logging reset time
+5.440803289413452
+Logging reset time
+5.432168245315552
+Logging reset time
+5.433265924453735
+Logging reset time
+5.420922517776489
+Logging reset time
+5.431567668914795
+Logging reset time
+5.428737163543701
+Logging reset time
+5.4447340965271
+Logging reset time
+5.440237998962402
+Logging reset time
+5.432924270629883
+Logging reset time
+5.425903081893921
+Logging reset time
+5.425051927566528
+Logging reset time
+5.422041177749634
+Logging reset time
+5.431411981582642
+Logging reset time
+5.428361654281616
+Logging reset time
+5.438798904418945
+Logging reset time
+5.434478282928467
+Logging reset time
+5.429138660430908
+Logging reset time
+5.458789825439453
+Logging reset time
+5.437673330307007
+Logging reset time
+5.42396879196167
+Logging reset time
+5.4315197467803955
+Logging reset time
+5.43381929397583
+Logging reset time
+5.43261194229126
+Logging reset time
+5.427759647369385
+Logging reset time
+5.43055534362793
+Logging reset time
+5.429945945739746
+Logging reset time
+5.4236016273498535
+Logging reset time
+5.427759647369385
+Logging reset time
+5.438190698623657
+Logging reset time
+5.433096408843994
+Logging reset time
+5.436176061630249
+Logging reset time
+5.4238574504852295
+Logging reset time
+5.430217504501343
+Logging reset time
+5.4298694133758545
+Logging reset time
+5.423315763473511
+Logging reset time
+5.433110952377319
+Logging reset time
+5.422682762145996
+Logging reset time
+5.433647394180298
+Logging reset time
+5.418811082839966
+Logging reset time
+5.424607515335083
+Logging reset time
+5.424105167388916
+Logging reset time
+5.422796010971069
+Logging reset time
+5.430095672607422
+Logging reset time
+5.4586181640625
+Logging reset time
+5.429408311843872
+Logging reset time
+5.418148994445801
+Logging reset time
+5.447954416275024
+Logging reset time
+5.426954030990601
+Logging reset time
+5.4245686531066895
+Logging reset time
+5.434138059616089
+Logging reset time
+5.430619478225708
+Logging reset time
+5.43117094039917
+Logging reset time
+5.4316651821136475
+Logging reset time
+5.438540697097778
+Logging reset time
+5.42691969871521
+Logging reset time
+5.432459831237793
+Logging reset time
+5.433572769165039
+Logging reset time
+5.437803506851196
+Logging reset time
+5.4273529052734375
+Logging reset time
+5.42783784866333
+Logging reset time
+5.424350261688232
+Logging reset time
+5.434077739715576
+Logging reset time
+5.443228244781494
+Logging reset time
+5.4302215576171875
+Logging reset time
+5.430384874343872
+Logging reset time
+5.427125453948975
+Logging reset time
+5.4406797885894775
+Logging reset time
+10.502518892288208
+Logging reset time
+5.42277455329895
+Logging reset time
+5.422173976898193
+Logging reset time
+5.4211814403533936
+Logging reset time
+5.431689739227295
+Logging reset time
+5.427568435668945
+Logging reset time
+5.426612138748169
+Logging reset time
+5.434105396270752
+Logging reset time
+5.4330174922943115
+Logging reset time
+5.4294233322143555
+Logging reset time
+5.429603099822998
+Logging reset time
+5.428923606872559
+Logging reset time
+5.449911832809448
+Logging reset time
+5.425897121429443
+Logging reset time
+5.43107795715332
+Logging reset time
+5.422992706298828
+Logging reset time
+5.431985378265381
+Logging reset time
+5.426784515380859
+Logging reset time
+5.433286666870117
+Logging reset time
+5.431381702423096
+Logging reset time
+5.421762466430664
+Logging reset time
+5.42350697517395
+Logging reset time
+2.974461078643799
+Logging reset time
+7.589124917984009
+Logging reset time
+5.425116539001465
+Logging reset time
+7.514606475830078
+Logging reset time
+5.419417142868042
+Logging reset time
+5.424848794937134
+Logging reset time
+5.435806035995483
+Logging reset time
+5.429870128631592
+Logging reset time
+5.432196378707886
+Logging reset time
+5.425707578659058
+Logging reset time
+5.430062532424927
+Logging reset time
+5.428841590881348
+Logging reset time
+5.426203966140747
+Logging reset time
+5.432232618331909
+Logging reset time
+5.425929069519043
+Logging reset time
+5.427832126617432
+Logging reset time
+5.433195352554321
+Logging reset time
+5.427971124649048
+Logging reset time
+5.428806304931641
+Logging reset time
+5.433315992355347
+Logging reset time
+5.4336278438568115
+Logging reset time
+5.429998159408569
+Logging reset time
+5.429934978485107
+Logging reset time
+5.442403078079224
+Logging reset time
+5.431891679763794
+Logging reset time
+5.429923057556152
+Logging reset time
+5.431536436080933
+Logging reset time
+5.420801401138306
+Logging reset time
+5.438811302185059
+Logging reset time
+5.4262542724609375
+Logging reset time
+5.425671100616455
+Logging reset time
+5.42853856086731
+Logging reset time
+5.424483776092529
+Logging reset time
+5.4322099685668945
+Logging reset time
+5.421327829360962
+Logging reset time
+5.425217628479004
+Logging reset time
+5.4245381355285645
+Logging reset time
+5.437972068786621
+Logging reset time
+5.433566331863403
+Logging reset time
+5.432679176330566
+Logging reset time
+5.428358793258667
+Logging reset time
+5.440714359283447
+Logging reset time
+5.43350887298584
+Logging reset time
+5.424571990966797
+Logging reset time
+5.42863917350769
+Logging reset time
+5.4269187450408936
+Logging reset time
+5.430504322052002
+Logging reset time
+5.434859991073608
+Logging reset time
+5.426048517227173
+Logging reset time
+5.4339599609375
+Logging reset time
+5.439318418502808
+Logging reset time
+5.423436880111694
+Logging reset time
+5.4339141845703125
+Logging reset time
+5.434016942977905
+Logging reset time
+5.424663782119751
+Logging reset time
+5.431456804275513
+Logging reset time
+5.428961992263794
+Logging reset time
+5.421623229980469
+Logging reset time
+5.424915552139282
+Logging reset time
+5.4333648681640625
+Logging reset time
+5.424887657165527
+Logging reset time
+5.437275648117065
+Logging reset time
+5.431128025054932
+Logging reset time
+5.4355950355529785
+Logging reset time
+5.428789854049683
+Logging reset time
+5.417387008666992
+Logging reset time
+5.431203365325928
+Logging reset time
+5.436641693115234
+Logging reset time
+5.423687934875488
+Logging reset time
+5.428258895874023
+Logging reset time
+5.435856342315674
+Logging reset time
+5.431279182434082
+Logging reset time
+5.4393086433410645
+Logging reset time
+5.438406229019165
+Logging reset time
+5.430896282196045
+Logging reset time
+5.434003114700317
+Logging reset time
+5.432678461074829
+Logging reset time
+5.425976514816284
+Logging reset time
+5.4337592124938965
+Logging reset time
+5.438349723815918
+Logging reset time
+5.42023491859436
+Logging reset time
+5.428354263305664
+Logging reset time
+5.4200592041015625
+Logging reset time
+5.424651145935059
+Logging reset time
+5.4271039962768555
+Logging reset time
+5.435871362686157
+Logging reset time
+5.4249653816223145
+Logging reset time
+5.434811353683472
+Logging reset time
+5.4447081089019775
+Logging reset time
+5.431649923324585
+Logging reset time
+5.429397821426392
+Logging reset time
+5.434898138046265
+Logging reset time
+5.418482542037964
+Logging reset time
+5.433060884475708
+Logging reset time
+5.4310057163238525
+Logging reset time
+5.42728590965271
+Logging reset time
+5.4272990226745605
+Logging reset time
+5.432547330856323
+Logging reset time
+5.423257827758789
+Logging reset time
+5.43674111366272
+Logging reset time
+5.43399715423584
+Logging reset time
+5.434262037277222
+Logging reset time
+5.435802221298218
+Logging reset time
+5.432754993438721
+Logging reset time
+5.435246706008911
+Logging reset time
+5.417974948883057
+Logging reset time
+5.425025939941406
+Logging reset time
+5.430201053619385
+Logging reset time
+5.437116384506226
+Logging reset time
+5.433274269104004
+Logging reset time
+5.436458349227905
+Logging reset time
+5.432182550430298
+Logging reset time
+5.421753168106079
+Logging reset time
+5.4337427616119385
+Logging reset time
+5.431030035018921
+Logging reset time
+5.432358503341675
+Logging reset time
+5.426817417144775
+Logging reset time
+5.454920530319214
+Logging reset time
+5.454477548599243
+Logging reset time
+5.431500673294067
+Logging reset time
+5.4347333908081055
+Logging reset time
+5.439842700958252
+Logging reset time
+5.438377380371094
+Logging reset time
+5.432387828826904
+Logging reset time
+5.458643674850464
+Logging reset time
+5.432851076126099
+Logging reset time
+5.419984817504883
+Logging reset time
+5.430486679077148
+Logging reset time
+5.422586679458618
+Logging reset time
+5.433010101318359
+Logging reset time
+5.421731233596802
+Logging reset time
+5.431797027587891
+Logging reset time
+5.433171987533569
+Logging reset time
+5.4274046421051025
+Logging reset time
+5.4412453174591064
+Logging reset time
+5.427762746810913
+Logging reset time
+5.440144300460815
+Logging reset time
+5.43345046043396
+Logging reset time
+5.434435844421387
+Logging reset time
+5.443471431732178
+Logging reset time
+5.429249048233032
+Logging reset time
+5.429289817810059
+Logging reset time
+5.437289476394653
+Logging reset time
+5.435314178466797
+Logging reset time
+5.4277567863464355
+Logging reset time
+5.426030158996582
+Logging reset time
+5.432446241378784
+Logging reset time
+5.434861898422241
+Logging reset time
+5.427410125732422
+Logging reset time
+5.43499231338501
+Logging reset time
+5.428391695022583
+Logging reset time
+5.428361415863037
+Logging reset time
+5.44226336479187
+Logging reset time
+5.430681943893433
+Logging reset time
+5.427597522735596
+Logging reset time
+5.432560920715332
+Logging reset time
+5.425840139389038
+Logging reset time
+5.4265923500061035
+Logging reset time
+5.4345643520355225
+Logging reset time
+5.421391725540161
+Logging reset time
+5.426229000091553
+Logging reset time
+5.4278388023376465
+Logging reset time
+5.427485704421997
+Logging reset time
+5.419934272766113
+Logging reset time
+5.424059629440308
+Logging reset time
+5.423413515090942
+Logging reset time
+5.435852527618408
+Logging reset time
+5.423221588134766
+Logging reset time
+5.425062894821167
+Logging reset time
+5.430149793624878
+Logging reset time
+5.423389434814453
+Logging reset time
+5.424601078033447
+Logging reset time
+5.435634136199951
+Logging reset time
+5.432597875595093
+Logging reset time
+5.4309539794921875
+Logging reset time
+5.4386467933654785
+Logging reset time
+5.436467409133911
+Logging reset time
+5.429213762283325
+Logging reset time
+5.423800706863403
+Logging reset time
+5.435606956481934
+Logging reset time
+5.426158666610718
+Logging reset time
+5.423033952713013
+Logging reset time
+5.42360258102417
+Logging reset time
+5.420667409896851
+Logging reset time
+5.43219518661499
+Logging reset time
+5.43111515045166
+Logging reset time
+5.421488046646118
+Logging reset time
+5.426899433135986
+Logging reset time
+5.4306960105896
+Logging reset time
+5.4333813190460205
+Logging reset time
+5.423059701919556
+Logging reset time
+5.4271931648254395
+Logging reset time
+5.435981750488281
+Logging reset time
+5.425217390060425
+Logging reset time
+5.423144817352295
+Logging reset time
+5.430121183395386
+Logging reset time
+5.423168897628784
+Logging reset time
+5.435439586639404
+Logging reset time
+5.4242119789123535
+Logging reset time
+5.438503980636597
+Logging reset time
+5.434662342071533
+Logging reset time
+5.422998905181885
+Logging reset time
+5.42174768447876
+Logging reset time
+5.428996801376343
+Logging reset time
+5.423931360244751
+Logging reset time
+5.42435359954834
+Logging reset time
+5.430206775665283
+Logging reset time
+5.43384313583374
+Logging reset time
+5.437443017959595
+Logging reset time
+5.4329705238342285
+Logging reset time
+5.423926115036011
+Logging reset time
+5.4375739097595215
+Logging reset time
+5.436580657958984
+Logging reset time
+5.4297497272491455
+Logging reset time
+5.435393571853638
+Logging reset time
+5.429576635360718
+Logging reset time
+5.437547445297241
+Logging reset time
+5.418469429016113
+Logging reset time
+5.433859825134277
+Logging reset time
+5.429198741912842
+Logging reset time
+5.42410135269165
+Logging reset time
+5.436093807220459
+Logging reset time
+5.424696683883667
+Logging reset time
+5.436069488525391
+Logging reset time
+5.434551954269409
+Logging reset time
+5.425156116485596
+Logging reset time
+5.433434963226318
+Logging reset time
+5.43319296836853
+Logging reset time
+5.427867889404297
+Logging reset time
+5.4316771030426025
+Logging reset time
+5.427711486816406
+Logging reset time
+5.4251625537872314
+Logging reset time
+5.429670095443726
+Logging reset time
+5.4225218296051025
+Logging reset time
+5.429217338562012
+Logging reset time
+5.435437917709351
+Logging reset time
+5.437910556793213
+Logging reset time
+5.4334187507629395
+Logging reset time
+5.431529521942139
+Logging reset time
+5.434650182723999
+Logging reset time
+5.43379020690918
+Logging reset time
+5.433387041091919
+Logging reset time
+5.43055534362793
+Logging reset time
+5.432457208633423
+Logging reset time
+5.427870273590088
+Logging reset time
+5.435913562774658
+Logging reset time
+5.4267988204956055
+Logging reset time
+5.430399417877197
+Logging reset time
+5.436639785766602
+Logging reset time
+5.440616846084595
+Logging reset time
+5.430083513259888
+Logging reset time
+5.429539442062378
+Logging reset time
+5.429101943969727
+Logging reset time
+5.440415620803833
+Logging reset time
+5.441521644592285
+Logging reset time
+5.433108329772949
+Logging reset time
+5.430608034133911
+Logging reset time
+5.426548957824707
+Logging reset time
+5.436375141143799
+Logging reset time
+5.432467937469482
+Logging reset time
+5.431440114974976
+Logging reset time
+5.426136016845703
+Logging reset time
+5.4315407276153564
+Logging reset time
+5.427698135375977
+Logging reset time
+5.426675319671631
+Logging reset time
+5.43494725227356
+Logging reset time
+5.430466651916504
+Logging reset time
+5.423545837402344
+Logging reset time
+5.429066181182861
+Logging reset time
+5.4295737743377686
+Logging reset time
+5.424227476119995
+Logging reset time
+5.426654100418091
+Logging reset time
+5.435256481170654
+Logging reset time
+5.425335884094238
+Logging reset time
+5.429651975631714
+Logging reset time
+5.428658485412598
+Logging reset time
+5.427125453948975
+Logging reset time
+5.426962852478027
+Logging reset time
+5.4276697635650635
+Logging reset time
+5.425477504730225
+Logging reset time
+5.429076433181763
+Logging reset time
+5.438007354736328
+Logging reset time
+5.427562713623047
+Logging reset time
+5.4313390254974365
+Logging reset time
+5.439158916473389
+Logging reset time
+5.447108268737793
+Logging reset time
+5.451853275299072
+Logging reset time
+5.434273958206177
+Logging reset time
+5.433847188949585
+Logging reset time
+5.43286395072937
+Logging reset time
+5.427273273468018
+Logging reset time
+5.431208372116089
+Logging reset time
+5.433232069015503
+Logging reset time
+5.435907363891602
+Logging reset time
+5.430797100067139
+Logging reset time
+5.4322288036346436
+Logging reset time
+5.436759948730469
+Logging reset time
+5.424056529998779
+Logging reset time
+5.4345948696136475
+Logging reset time
+5.434020042419434
+Logging reset time
+5.4264702796936035
+Logging reset time
+5.429100275039673
+Logging reset time
+5.430901050567627
+Logging reset time
+5.445404052734375
+Logging reset time
+5.429424524307251
+Logging reset time
+5.426216125488281
+Logging reset time
+5.428880929946899
+Logging reset time
+5.425764799118042
+Logging reset time
+5.428378343582153
+Logging reset time
+5.427905082702637
+Logging reset time
+5.42300820350647
+Logging reset time
+5.425807952880859
+Logging reset time
+5.437403440475464
+Logging reset time
+5.433380365371704
+Logging reset time
+5.434628963470459
+Logging reset time
+5.432318687438965
+Logging reset time
+5.43008828163147
+Logging reset time
+5.431155681610107
+Logging reset time
+5.423219203948975
+Logging reset time
+5.421481132507324
+Logging reset time
+5.424652814865112
+Logging reset time
+5.434232711791992
+Logging reset time
+5.4298741817474365
+Logging reset time
+5.4292893409729
+Logging reset time
+5.426953554153442
+Logging reset time
+5.4323225021362305
+Logging reset time
+5.433830499649048
+Logging reset time
+5.423493146896362
+Logging reset time
+5.430712461471558
+Logging reset time
+5.427809715270996
+Logging reset time
+5.431077241897583
+Logging reset time
+5.434383869171143
+Logging reset time
+5.426445960998535
+Logging reset time
+5.4184088706970215
+Logging reset time
+5.431751012802124
+Logging reset time
+5.434987306594849
+Logging reset time
+5.430598020553589
+Logging reset time
+5.4235999584198
+Logging reset time
+5.427860260009766
+Logging reset time
+5.432196855545044
+Logging reset time
+5.434594392776489
+Logging reset time
+5.4292685985565186
+Logging reset time
+5.422771453857422
+Logging reset time
+5.429380893707275
+Logging reset time
+5.436834812164307
+Logging reset time
+5.4266276359558105
+Logging reset time
+5.430377244949341
+Logging reset time
+5.429305553436279
+Logging reset time
+5.437713384628296
+Logging reset time
+5.437515497207642
+Logging reset time
+5.426950693130493
+Logging reset time
+5.44437050819397
+Logging reset time
+5.4445154666900635
+Logging reset time
+5.432340621948242
+Logging reset time
+5.42224383354187
+Logging reset time
+5.4312310218811035
+Logging reset time
+5.424620151519775
+Logging reset time
+5.4358415603637695
+Logging reset time
+5.423936367034912
+Logging reset time
+5.42707371711731
+Logging reset time
+5.429577589035034
+Logging reset time
+5.432330846786499
+Logging reset time
+5.431172609329224
+Logging reset time
+5.444177865982056
+Logging reset time
+5.426722049713135
+Logging reset time
+5.422218322753906
+Logging reset time
+5.435142993927002
+Logging reset time
+5.41654896736145
+Logging reset time
+5.417985200881958
+Logging reset time
+5.43660831451416
+Logging reset time
+5.434594392776489
+Logging reset time
+5.43375563621521
+Logging reset time
+5.434740781784058
+Logging reset time
+5.421820878982544
+Logging reset time
+5.43282151222229
+Logging reset time
+5.432787656784058
+Logging reset time
+5.420115232467651
+Logging reset time
+5.426194190979004
+Logging reset time
+5.427306890487671
+Logging reset time
+5.426619529724121
+Logging reset time
+5.435009717941284
+Logging reset time
+5.427189350128174
+Logging reset time
+5.431885004043579
+Logging reset time
+5.436423063278198
+Logging reset time
+5.43424391746521
+Logging reset time
+5.4313530921936035
+Logging reset time
+5.426318645477295
+Logging reset time
+5.421402454376221
+Logging reset time
+5.430713891983032
+Logging reset time
+5.42374324798584
+Logging reset time
+5.42843770980835
+Logging reset time
+5.42855167388916
+Logging reset time
+5.433212041854858
+Logging reset time
+5.434073448181152
+Logging reset time
+5.432866811752319
+Logging reset time
+5.426877975463867
+Logging reset time
+5.426739931106567
+Logging reset time
+5.422688007354736
+Logging reset time
+5.426819562911987
+Logging reset time
+5.424842596054077
+Logging reset time
+5.424920082092285
+Logging reset time
+5.438120126724243
+Logging reset time
+5.420957565307617
+Logging reset time
+5.438033819198608
+Logging reset time
+5.430765867233276
+Logging reset time
+5.428759336471558
+Logging reset time
+5.429819583892822
+Logging reset time
+5.439335584640503
+Logging reset time
+5.434870004653931
+Logging reset time
+5.431412935256958
+Logging reset time
+5.428936958312988
+Logging reset time
+5.422844409942627
+Logging reset time
+5.426503896713257
+Logging reset time
+5.4282495975494385
+Logging reset time
+5.432783126831055
+Logging reset time
+5.428759336471558
+Logging reset time
+5.453168630599976
+Logging reset time
+5.431971549987793
+Logging reset time
+5.4256813526153564
+Logging reset time
+5.42348051071167
+Logging reset time
+5.439215660095215
+Logging reset time
+5.430923700332642
+Logging reset time
+5.429963111877441
+Logging reset time
+5.426883220672607
+Logging reset time
+5.427361726760864
+Logging reset time
+5.429849624633789
+Logging reset time
+5.431590795516968
+Logging reset time
+5.4246368408203125
+Logging reset time
+5.4302637577056885
+Logging reset time
+5.42784857749939
+Logging reset time
+5.423814058303833
+Logging reset time
+5.4277777671813965
+Logging reset time
+5.421705961227417
+Logging reset time
+5.455558776855469
+Logging reset time
+5.422833442687988
+Logging reset time
+5.42500376701355
+Logging reset time
+5.425630331039429
+Logging reset time
+5.429068565368652
+Logging reset time
+5.4339189529418945
+Logging reset time
+5.440959692001343
+Logging reset time
+5.427738428115845
+Logging reset time
+5.425671577453613
+Logging reset time
+5.4308180809021
+Logging reset time
+5.42008113861084
+Logging reset time
+5.4254984855651855
+Logging reset time
+5.452870845794678
+Logging reset time
+5.431355953216553
+Logging reset time
+5.447572231292725
+Logging reset time
+5.428309202194214
+Logging reset time
+5.4204137325286865
+Logging reset time
+5.4280195236206055
+Logging reset time
+5.425156116485596
+Logging reset time
+5.4328694343566895
+Logging reset time
+5.422296524047852
+Logging reset time
+5.428040981292725
+Logging reset time
+5.445885181427002
+Logging reset time
+5.4223244190216064
+Logging reset time
+5.433130741119385
+Logging reset time
+5.429324388504028
+Logging reset time
+5.4247541427612305
+Logging reset time
+5.434646844863892
+Logging reset time
+5.423929929733276
+Logging reset time
+5.426743268966675
+Logging reset time
+5.428082704544067
+Logging reset time
+5.4227073192596436
+Logging reset time
+5.433689832687378
+Logging reset time
+5.4337317943573
+Logging reset time
+5.425119400024414
+Logging reset time
+5.428840398788452
+Logging reset time
+5.429235935211182
+Logging reset time
+5.428297758102417
+Logging reset time
+5.439237117767334
+Logging reset time
+5.429827928543091
+Logging reset time
+5.43574333190918
+Logging reset time
+5.42526912689209
+Logging reset time
+5.421161651611328
+Logging reset time
+5.4316933155059814
+Logging reset time
+5.425239086151123
+Logging reset time
+5.4349610805511475
+Logging reset time
+5.4327733516693115
+Logging reset time
+5.437256097793579
+Logging reset time
+5.429765939712524
+Logging reset time
+5.431391716003418
+Logging reset time
+5.423707962036133
+Logging reset time
+5.441011190414429
+Logging reset time
+5.4344096183776855
+Logging reset time
+5.446723699569702
+Logging reset time
+5.433521270751953
+Logging reset time
+5.42983341217041
+Logging reset time
+5.433116436004639
+Logging reset time
+5.420352220535278
+Logging reset time
+5.427838087081909
+Logging reset time
+5.440920829772949
+Logging reset time
+5.437938928604126
+Logging reset time
+5.439687013626099
+Logging reset time
+5.425586938858032
+Logging reset time
+5.4255897998809814
+Logging reset time
+5.433063983917236
+Logging reset time
+5.434956073760986
+Logging reset time
+5.428816556930542
+Logging reset time
+5.433929443359375
+Logging reset time
+5.427164793014526
+Logging reset time
+5.430694103240967
