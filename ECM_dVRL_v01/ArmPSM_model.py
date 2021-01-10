@@ -5,6 +5,7 @@
 
 
 from pyrep.pyrep import PyRep
+from pyrep.backend import sim
 from pyrep.objects.joint import Joint
 from pyrep.objects.shape import Shape
 from pyrep.objects.vision_sensor import VisionSensor
@@ -54,6 +55,8 @@ class ArmPSM(PyRep):
         #Set dynamics mode off to save on compuation time for VREP:
         self.setDynamicsMode(0)
         
+        self.IK_PSM1_group = sim.simGetIkGroupHandle('IK_PSM1')
+
     #dyn_mode = 1 turns on dynamics
     #dyn_mode = 0 turns off dynamics
     def setDynamicsMode(self, dyn_mode):
@@ -241,7 +244,15 @@ class ArmPSM(PyRep):
 
     def get_marker_position(self, relative_to = None):
         return self.marker.get_position(relative_to)
-        
+
+    def getJacobian(self):
+        sim.simCheckIkGroup(self.IK_PSM1_group, [
+            self.j1_handle.get_handle(), self.j2_handle.get_handle(), 
+            self.j3_handle.get_handle(), self.j4_handle.get_handle(),
+            self.j5_handle.get_handle(), self.j6d_handle.get_handle(), self.j6s_handle.get_handle()])
+        J, (rows, cols) = sim.simGetIkGroupMatrix(self.IK_PSM1_group, 0)
+        J = np.array(J).reshape((rows, cols), order = 'F')
+        return J
     """def stopSim(self):
         self.pr.stop()
         self.pr.shutdown()"""

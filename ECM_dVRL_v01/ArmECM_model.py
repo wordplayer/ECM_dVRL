@@ -5,14 +5,12 @@
 
 
 from pyrep.pyrep import PyRep
+from pyrep.backend import sim
 from pyrep.objects.joint import Joint
 from pyrep.objects.shape import Shape
+from pyrep.objects.dummy import Dummy
 from pyrep.objects.vision_sensor import VisionSensor
 import numpy as np
-
-
-# In[2]:
-
 
 class ArmECM(PyRep):
     def __init__(self, pr):
@@ -31,7 +29,11 @@ class ArmECM(PyRep):
         
         self.left_cam = VisionSensor('Vision_sensor_left')
         self.right_cam = VisionSensor('Vision_sensor_right')
-        
+
+        self.EE_target_left = Dummy('EE_target_left')
+        self.IK_target_left = Dummy('IK_target_left')
+        self.IK_ECM_left_group = sim.simGetIkGroupHandle('IK_ECM_left')
+
     def getJointAngles(self):
         
         pos1 = self.j1_handle.get_joint_position()
@@ -56,8 +58,17 @@ class ArmECM(PyRep):
     
     def getDepthImagePairs(self):
         return self.left_cam.capture_depth(True), self.right_cam.capture_depth(True)
-    """def stopSim(self):
-        self.pr.stop()
-        self.pr.shutdown()"""
 
+    def getTransformMatrices(self):
+        return self.j1_handle.get_matrix(self.base_handle), self.j2_handle.get_matrix(self.j1_handle), self.j3_handle.get_matrix(self.j2_handle), self.j4_handle.get_matrix(self.j3_handle), self.left_cam.get_matrix(self.j4_handle)
 
+    def getJacobian(self):
+
+        self.EE_target_left.set_matrix(self.IK_target_left.get_matrix())
+        sim.simCheckIkGroup(self.IK_ECM_left_group, [
+            self.j1_handle.get_handle(), self.j2_handle.get_handle(), 
+            self.j3_handle.get_handle(), self.j4_handle.get_handle()
+            ])
+        J, (rows, cols) = sim.simGetIkGroupMatrix(self.IK_ECM_left_group, 0)
+        J = np.array(J).reshape((rows, cols), order = 'F')
+        return J

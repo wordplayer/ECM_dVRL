@@ -19,7 +19,7 @@ class ECMEnv(gym.GoalEnv):
         self.viewer = None
         
         self.pr = PyRep()
-        self.pr.launch(scene_path)
+        self.pr.launch(scene_path, headless = False)
         
         self.psm_num = psm_num
         self.psm = ArmPSM(self.pr, self.psm_num)
@@ -45,15 +45,15 @@ class ECMEnv(gym.GoalEnv):
         self.seed()
         self._env_setup()
         self.done = False
-        self.marker_pos = self.psm.get_marker_position(self.ecm.left_cam)
+        self.marker_pos = self.psm.get_marker_position(self.ecm.base_handle)
         #self.desired_goal = np.array([self.marker_pos[0], self.marker_pos[1], 1.0000 + self.marker_pos[2]])
-        self.desired_goal = np.array([0., 0., 0.])
+        self.desired_goal = np.array([0., 0., 0., 1.])
 
         #self.bounds = [[-1.000, 0.], [-0.030, 0.045], [0, 0.075], [-0.030, 0.045]]
         self.bounds = np.array([np.radians([-75, 45]), np.radians([-45, 65]), np.array([0, 0.235]), np.radians([-90, 90])])
         self.init_angles = np.array([-0.8775, 0.0025, 0., 0.])
                         
-        self.action_space = spaces.Box(0., 0.02, shape=(n_actions,), dtype='float32')
+        self.action_space = spaces.Box(-0.02, 0.02, shape=(n_actions,), dtype='float32')
         self.observation_space = spaces.Dict(dict(
 			desired_goal=spaces.Box(-np.inf, np.inf, shape=(n_goals,), dtype='float32'),
 			achieved_goal=spaces.Box(-np.inf, np.inf, shape=(n_goals,), dtype='float32'),
@@ -75,7 +75,7 @@ class ECMEnv(gym.GoalEnv):
         valid = True
         logging.info('Logging action update in env.step')
         if not self.done:
-            action = np.clip(action, self.action_space.low, self.action_space.high)
+            #action = np.clip(action, self.action_space.low, self.action_space.high)
             valid = self._set_action(action)
 
             logging.info('Logging runtime for _simulator_step()')
@@ -107,7 +107,7 @@ class ECMEnv(gym.GoalEnv):
         self._reset_sim()
         obs = self._get_obs()
         return obs
-        
+
     def get_centroid(self):
         left_image, right_image = self.ecm.getStereoImagePairs()
         left_image = cv2.cvtColor(left_image, cv2.COLOR_RGB2HSV)
@@ -124,6 +124,18 @@ class ECMEnv(gym.GoalEnv):
             c_y = int(M["m01"]/M["m00"])
         return np.array([c_x, c_y])
 
+    def get_transform_matrices_product(self):
+
+        T1b, T21, T32, T43, Tc4 = self.ecm.getTransformMatrices()
+        T1b = np.vstack((np.reshape(T1b, (3, 4)), np.array([0., 0., 0., 1.])))
+        T21 = np.vstack((np.reshape(T21, (3, 4)), np.array([0., 0., 0., 1.])))
+        T32 = np.vstack((np.reshape(T32, (3, 4)), np.array([0., 0., 0., 1.])))
+        T43 = np.vstack((np.reshape(T43, (3, 4)), np.array([0., 0., 0., 1.])))
+        Tc4 = np.vstack((np.reshape(Tc4, (3, 4)), np.array([0., 0., 0., 1.])))
+        #print (T1b, T21, T32, T43, Tc4)
+        T_prod = np.matmul(Tc4, np.linalg.inv(np.matmul(np.matmul(T1b, T21), np.matmul(T32, T43))))
+        return T_prod
+
     def get_achieved_goal(self):
         """logging.info('Logging runtime for get_centroid')
         start = time.time()
@@ -139,7 +151,13 @@ class ECMEnv(gym.GoalEnv):
         #x = (z/f) * u
         #y = (z/f) * v
         return np.array([x, y, z])"""
-        return self.psm.get_marker_position(self.ecm.left_cam)
+
+        """Using the Jacobian end-effector control approach to determine an achieved goal position"""
+        T_prod = self.get_transform_matrices_product()
+        base_coordinates = np.append(self.psm.get_marker_position(self.ecm.base_handle), 1.)
+        goal = np.dot(T_prod, base_coordinates)
+        
+        return goal
 
     def close(self):
         if self.viewer is not None:
