@@ -47,11 +47,12 @@ class ECMEnv(gym.GoalEnv):
         self.done = False
         self.marker_pos = self.psm.get_marker_position(self.ecm.base_handle)
         #self.desired_goal = np.array([self.marker_pos[0], self.marker_pos[1], 1.0000 + self.marker_pos[2]])
-        self.desired_goal = np.array([0., 0., 0., 1.])
+        #self.desired_goal = np.array([0., 0., 0., 1.])
+        self.desired_goal = np.array([0., 0., 0.7, 1.0])
 
         #self.bounds = [[-1.000, 0.], [-0.030, 0.045], [0, 0.075], [-0.030, 0.045]]
         self.bounds = np.array([np.radians([-75, 45]), np.radians([-45, 65]), np.array([0, 0.235]), np.radians([-90, 90])])
-        self.init_angles = np.array([-0.8775, 0.0025, 0., 0.])
+        self.init_angles = np.array([-0.9000, 0., 0., 0.])
                         
         self.action_space = spaces.Box(-0.02, 0.02, shape=(n_actions,), dtype='float32')
         self.observation_space = spaces.Dict(dict(
@@ -154,7 +155,8 @@ class ECMEnv(gym.GoalEnv):
 
         """Using the Jacobian end-effector control approach to determine an achieved goal position"""
         T_prod = self.get_transform_matrices_product()
-        base_coordinates = np.append(self.psm.get_marker_position(self.ecm.base_handle), 1.)
+        #base_coordinates = np.append(self.psm.get_marker_position(self.ecm.base_handle), 1.)
+        base_coordinates = np.append(self.ecm.getTestGoalPosition(), 1.)
         goal = np.dot(T_prod, base_coordinates)
         
         return goal

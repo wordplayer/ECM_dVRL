@@ -32,6 +32,7 @@ class ArmECM(PyRep):
 
         self.EE_target_left = Dummy('EE_target_left')
         self.IK_target_left = Dummy('IK_target_left')
+        self.test_goal = Shape('TestGoal')
         self.IK_ECM_left_group = sim.simGetIkGroupHandle('IK_ECM_left')
 
     def getJointAngles(self):
@@ -62,6 +63,9 @@ class ArmECM(PyRep):
     def getTransformMatrices(self):
         return self.j1_handle.get_matrix(self.base_handle), self.j2_handle.get_matrix(self.j1_handle), self.j3_handle.get_matrix(self.j2_handle), self.j4_handle.get_matrix(self.j3_handle), self.left_cam.get_matrix(self.j4_handle)
 
+    def getTestGoalPosition(self):
+        return self.test_goal.get_position(self.base_handle)
+        
     def getJacobian(self):
 
         self.EE_target_left.set_matrix(self.IK_target_left.get_matrix())
